@@ -6755,5 +6755,57 @@
   "yt_label": "Cães de Caça | Trailer oficial | Netflix",
   "ig": "https://www.instagram.com/p/DXnAT06Akls/",
   "origem": "instagram2"
+ },
+ {
+  "id": "Dee0ikvsnt0",
+  "pt": "Os Medos de Rain",
+  "orig": "Fear of Rain",
+  "ano": 2021,
+  "tipo": "Filme",
+  "poster": "https://images.justwatch.com/poster/242216493/s332/fear-of-rain.webp",
+  "sin": "Rain é uma adolescente com esquizofrenia que luta para separar o real das vozes e imagens da sua mente. Quando suspeita que o vizinho sequestrou uma criança, ninguém acredita nela, exceto Caleb, um garoto que ela nem sabe se existe.",
+  "jw": "https://www.justwatch.com/br/filme/fear-of-rain",
+  "of": [
+   [
+    "Lionsgate+ Amazon Channel",
+    "Assinatura",
+    "",
+    "https://app.primevideo.com/detail?gti=amzn1.dv.gti.47cf1bb4-c0ad-4b78-b33c-62bdbf021d5a"
+   ],
+   [
+    "Apple TV Store",
+    "Aluguel",
+    "14,90 R$",
+    "https://tv.apple.com/br/movie/medo-da-chuva/umc.cmc.2dix613bsdnla291ju7f9765x?at=1000l3V2&ct=app_tv&itscg=30200&itsct=justwatch_tv&playableId=tvs.sbd.9001%3A1546826250"
+   ],
+   [
+    "Amazon Video",
+    "Aluguel",
+    "14,90 R$",
+    "https://app.primevideo.com/detail?gti=amzn1.dv.gti.47cf1bb4-c0ad-4b78-b33c-62bdbf021d5a"
+   ],
+   [
+    "Apple TV Store",
+    "Compra",
+    "37,90 R$",
+    "https://tv.apple.com/br/movie/medo-da-chuva/umc.cmc.2dix613bsdnla291ju7f9765x?at=1000l3V2&ct=app_tv&itscg=30200&itsct=justwatch_tv&playableId=tvs.sbd.9001%3A1546826250"
+   ],
+   [
+    "Amazon Video",
+    "Compra",
+    "37,90 R$",
+    "https://app.primevideo.com/detail?gti=amzn1.dv.gti.47cf1bb4-c0ad-4b78-b33c-62bdbf021d5a"
+   ]
+  ],
+  "imdb": 6,
+  "rt": 50,
+  "rt_aud": 59,
+  "rt_url": "https://www.rottentomatoes.com/m/fear_of_rain",
+  "imdb_url": "https://www.imdb.com/title/tt10037014/",
+  "yt": "0R5Oj9UXxK4",
+  "yt_label": "FEAR OF RAIN Official Trailer (2021) l Legendado PT PT",
+  "ig": "https://www.instagram.com/reel/Dee0ikvsnt0/",
+  "origem": "chat",
+  "nota": ""
  }
 ]
