@@ -44,7 +44,12 @@
   "yt": "SSKEanNgKVg",
   "yt_label": "Trailer oficial (Madman Films, inglês/legendas em inglês)",
   "ig": null,
-  "origem": "painel"
+  "origem": "painel",
+  "gen": [
+   "Ação",
+   "Drama",
+   "Fantasia"
+  ]
  },
  {
   "id": "blacktorch",
@@ -79,7 +84,13 @@
   "yt": "rLkd9C6jufc",
   "yt_label": "Trailer oficial VIZ (legendas em 6 idiomas)",
   "ig": null,
-  "origem": "painel"
+  "origem": "painel",
+  "gen": [
+   "Ação",
+   "Animação",
+   "Suspense",
+   "Ficção Científica"
+  ]
  },
  {
   "id": "segredo",
@@ -132,7 +143,11 @@
   "yt": "OUnCY-zTCZQ",
   "yt_label": "Trailer oficial legendado em português",
   "ig": null,
-  "origem": "painel"
+  "origem": "painel",
+  "gen": [
+   "Drama",
+   "Romance"
+  ]
  },
  {
   "id": "ember",
@@ -179,7 +194,14 @@
   "yt": "VVF6e-WRayI",
   "yt_label": "Trailer oficial (inglês)",
   "ig": null,
-  "origem": "painel"
+  "origem": "painel",
+  "gen": [
+   "Drama",
+   "Fantasia",
+   "Família",
+   "Suspense",
+   "Ficção Científica"
+  ]
  },
  {
   "id": "echotorch",
@@ -214,7 +236,11 @@
   "yt": "lahBRBliANY",
   "yt_label": "Curta completo no canal oficial",
   "ig": null,
-  "origem": "painel"
+  "origem": "painel",
+  "gen": [
+   "Terror",
+   "Ficção Científica"
+  ]
  },
  {
   "id": "guerreiro",
@@ -249,7 +275,12 @@
   "yt": "_jmY_khwLs8",
   "yt_label": "Trailer oficial Lionsgate (inglês)",
   "ig": null,
-  "origem": "painel"
+  "origem": "painel",
+  "gen": [
+   "Ação",
+   "Drama",
+   "Esporte"
+  ]
  },
  {
   "id": "f2",
@@ -301,7 +332,13 @@
   "yt": "F1jpUev0Xlc",
   "yt_label": "Paciente Zero (2018) Trailer Legendado 🎬",
   "ig": "https://www.instagram.com/clim_de_cinema/reel/DeeXVRYRuMN/",
-  "origem": "instagram"
+  "origem": "instagram",
+  "gen": [
+   "Ação",
+   "Drama",
+   "Terror",
+   "Ficção Científica"
+  ]
  },
  {
   "id": "f3",
@@ -359,7 +396,11 @@
   "yt": "dk4xsnTqF5g",
   "yt_label": "Conspiração Fatal | Trailer Oficial",
   "ig": "https://www.instagram.com/tela_secreta007/reel/DeczGlJp91D/",
-  "origem": "instagram"
+  "origem": "instagram",
+  "gen": [
+   "Terror",
+   "Suspense"
+  ]
  },
  {
   "id": "f4",
@@ -393,7 +434,12 @@
   "yt": "gzz85-kqT70",
   "yt_label": "Quando a Morte Sussurra 2 | Trailer Legendado",
   "ig": "https://www.instagram.com/mais.movies/reel/DealABChh-6/",
-  "origem": "instagram"
+  "origem": "instagram",
+  "gen": [
+   "Ação",
+   "Terror",
+   "Suspense"
+  ]
  },
  {
   "id": "f5",
@@ -433,7 +479,14 @@
   "yt": "gDROCrYXoK8",
   "yt_label": "THE K2 Teaser - PTBR",
   "ig": "https://www.instagram.com/doramando.br1/reel/DeabwUni34U/",
-  "origem": "instagram"
+  "origem": "instagram",
+  "gen": [
+   "Ação",
+   "Crime",
+   "Drama",
+   "Suspense",
+   "Romance"
+  ]
  },
  {
   "id": "f13",
@@ -491,7 +544,12 @@
   "yt": "CwQjJqEvZfg",
   "yt_label": "LETRAS ROUBADAS - (Trailer legendado Portugal)",
   "ig": "https://www.instagram.com/feijaozinhooficial/reel/DeVWd0qRE-O/",
-  "origem": "instagram"
+  "origem": "instagram",
+  "gen": [
+   "Comédia",
+   "Drama",
+   "Música"
+  ]
  },
  {
   "id": "f14",
@@ -549,7 +607,13 @@
   "yt": "ul-XS6abULo",
   "yt_label": "RED - Aposentados e Perigosos (Trailer oficial)",
   "ig": "https://www.instagram.com/primecine_ofc/reel/DeSbARzyoA1/",
-  "origem": "instagram"
+  "origem": "instagram",
+  "gen": [
+   "Ação",
+   "Comédia",
+   "Crime",
+   "Suspense"
+  ]
  },
  {
   "id": "f15",
@@ -577,7 +641,12 @@
   "yt": "GZKoUMjv6Co",
   "yt_label": "Poker Face | Trailer Legendado PT",
   "ig": "https://www.instagram.com/cinegoplusbrasil/reel/DeKqqEiME5W/",
-  "origem": "instagram"
+  "origem": "instagram",
+  "gen": [
+   "Comédia",
+   "Crime",
+   "Drama"
+  ]
  },
  {
   "id": "f16",
@@ -635,7 +704,12 @@
   "yt": "9cIxsbwcLD4",
   "yt_label": "Bandido 2022 Trailer Legendado",
   "ig": "https://www.instagram.com/assistatvpremium/reel/DeKYKemhGHh/",
-  "origem": "instagram"
+  "origem": "instagram",
+  "gen": [
+   "Crime",
+   "Drama",
+   "Suspense"
+  ]
  },
  {
   "id": "f18",
@@ -687,7 +761,11 @@
   "yt": "2I9eL_PgMng",
   "yt_label": "Os Bons Companheiros Trailer  1990 HD",
   "ig": "https://www.instagram.com/tvvision.cenas/reel/DeKD52RRIpz/",
-  "origem": "instagram"
+  "origem": "instagram",
+  "gen": [
+   "Crime",
+   "Drama"
+  ]
  },
  {
   "id": "f21",
@@ -721,7 +799,12 @@
   "yt": "L8nE46GYsXg",
   "yt_label": "Sinto a Tua Falta | Trailer oficial | Netflix",
   "ig": "https://www.instagram.com/epicscenesclip/reel/Ddw8_XwsvWp/",
-  "origem": "instagram"
+  "origem": "instagram",
+  "gen": [
+   "Crime",
+   "Drama",
+   "Suspense"
+  ]
  },
  {
   "id": "f23",
@@ -749,7 +832,12 @@
   "yt": "9GWCPXabihI",
   "yt_label": "Assalto ao Banco da Espanha | Trailer",
   "ig": "https://www.instagram.com/filmeflix_br/reel/DbxHcvRObcY/",
-  "origem": "instagram"
+  "origem": "instagram",
+  "gen": [
+   "Ação",
+   "Drama",
+   "Suspense"
+  ]
  },
  {
   "id": "f24",
@@ -783,7 +871,11 @@
   "yt": "9MeILB0M274",
   "yt_label": "BREEDER | Official Trailer ﻿| Independent Film Company",
   "ig": "https://www.instagram.com/the_movieculture/reel/Dd5_aKiSjXd/",
-  "origem": "instagram"
+  "origem": "instagram",
+  "gen": [
+   "Terror",
+   "Suspense"
+  ]
  },
  {
   "id": "f25",
@@ -817,7 +909,13 @@
   "yt": "Y_HbhPby24U",
   "yt_label": "O Quarto dos Desejos (The Room) 2019 - Trailer Legendado",
   "ig": "https://www.instagram.com/eli_firmino3/reel/Dd7fGmwqYaB/",
-  "origem": "instagram"
+  "origem": "instagram",
+  "gen": [
+   "Drama",
+   "Fantasia",
+   "Terror",
+   "Suspense"
+  ]
  },
  {
   "id": "f27",
@@ -851,7 +949,13 @@
   "yt": "eqoFWLQQDyU",
   "yt_label": "Luther: O Cair da Noite | Trailer oficial | Netflix",
   "ig": "https://www.instagram.com/delva_lima/reel/DdsEkDJJL7c/",
-  "origem": "instagram"
+  "origem": "instagram",
+  "gen": [
+   "Ação",
+   "Crime",
+   "Drama",
+   "Suspense"
+  ]
  },
  {
   "id": "f28",
@@ -885,7 +989,12 @@
   "yt": "XLnhAbbMkEY",
   "yt_label": "Night Sky - Official Trailer | Prime Video",
   "ig": "https://www.instagram.com/sombra.em.cena/reel/Ddzj8tFEuFC/",
-  "origem": "instagram"
+  "origem": "instagram",
+  "gen": [
+   "Drama",
+   "Fantasia",
+   "Ficção Científica"
+  ]
  },
  {
   "id": "f29",
@@ -913,7 +1022,13 @@
   "yt": "TfYokLpK9Vg",
   "yt_label": "EMERALD CITY Season 1 TRAILER 2017 nbc Wizard of Oz Series",
   "ig": "https://www.instagram.com/sombra.em.cena/reel/Dd4yK5PD19s/",
-  "origem": "instagram"
+  "origem": "instagram",
+  "gen": [
+   "Ação",
+   "Drama",
+   "Fantasia",
+   "Ficção Científica"
+  ]
  },
  {
   "id": "f30",
@@ -965,7 +1080,11 @@
   "yt": "Q2RecGZYzP8",
   "yt_label": "13 Pecados Trailer",
   "ig": "https://www.instagram.com/incrivelfilme/reel/Dd3_05uhg-p/",
-  "origem": "instagram"
+  "origem": "instagram",
+  "gen": [
+   "Terror",
+   "Suspense"
+  ]
  },
  {
   "id": "f32",
@@ -1005,7 +1124,11 @@
   "yt": "RcHq2W1dXRU",
   "yt_label": "A Serbian Film TRAILER",
   "ig": "https://www.instagram.com/incrivelfilme/reel/Dd1wOP5tv4Z/",
-  "origem": "instagram"
+  "origem": "instagram",
+  "gen": [
+   "Terror",
+   "Suspense"
+  ]
  },
  {
   "id": "f33",
@@ -1033,7 +1156,10 @@
   "yt": "YVXvM9qC34I",
   "yt_label": "Ninfomaníaca: Volume 1 | Trailer | Legendado (Brasil) (FHD)",
   "ig": "https://www.instagram.com/cinelandiaplayy/reel/Dd1x48ElDf6/",
-  "origem": "instagram"
+  "origem": "instagram",
+  "gen": [
+   "Drama"
+  ]
  },
  {
   "id": "f35",
@@ -1091,7 +1217,10 @@
   "yt": "Csbps5AWt_E",
   "yt_label": "Não Apaguem as Luzes 2023 Trailer Legendado",
   "ig": "https://www.instagram.com/ree.franco/reel/Dduk5DHuwWD/",
-  "origem": "instagram"
+  "origem": "instagram",
+  "gen": [
+   "Terror"
+  ]
  },
  {
   "id": "f38",
@@ -1131,7 +1260,14 @@
   "yt": "31xG0OQw4mQ",
   "yt_label": "The Strain | 1ª Temporada | Trailer Legendado",
   "ig": "https://www.instagram.com/recortacine/reel/DdsKMouOiBC/",
-  "origem": "instagram"
+  "origem": "instagram",
+  "gen": [
+   "Drama",
+   "Fantasia",
+   "Terror",
+   "Suspense",
+   "Ficção Científica"
+  ]
  },
  {
   "id": "f39",
@@ -1177,7 +1313,11 @@
   "yt": "eRbp-dd1QvM",
   "yt_label": "An Education | Official Trailer (2009)",
   "ig": "https://www.instagram.com/filmeflix_br/reel/Ddjla_LOYzf/",
-  "origem": "instagram"
+  "origem": "instagram",
+  "gen": [
+   "Drama",
+   "Romance"
+  ]
  },
  {
   "id": "f40",
@@ -1198,7 +1338,12 @@
   "yt": "ylbjM-kwVPU",
   "yt_label": "Doctor Who | Trailer Oficial Legendado | Disney+",
   "ig": "https://www.instagram.com/robin.flixtv/reel/Ddbqy33t9f1/",
-  "origem": "instagram"
+  "origem": "instagram",
+  "gen": [
+   "Ação",
+   "Drama",
+   "Ficção Científica"
+  ]
  },
  {
   "id": "f41",
@@ -1219,7 +1364,10 @@
   "yt": "NOgbIHKfx6U",
   "yt_label": "Comédia Explícita -- Movie 43 trailer legendado",
   "ig": "https://www.instagram.com/assistiae/reel/DdV-bO7OnSs/",
-  "origem": "instagram"
+  "origem": "instagram",
+  "gen": [
+   "Comédia"
+  ]
  },
  {
   "id": "f42",
@@ -1240,7 +1388,14 @@
   "yt": "S9NO0SJ1g7E",
   "yt_label": "Parallel | 2024   | Trailer Oficial  Legendado",
   "ig": "https://www.instagram.com/cult.of.terror/reel/DdbLaRlN6qa/",
-  "origem": "instagram"
+  "origem": "instagram",
+  "gen": [
+   "Drama",
+   "Fantasia",
+   "Terror",
+   "Suspense",
+   "Ficção Científica"
+  ]
  },
  {
   "id": "f44",
@@ -1268,7 +1423,13 @@
   "yt": "8jmvklHYffI",
   "yt_label": "Lago dos Ossos - Bone Lake - Trailer Legendado (2025) Marco Pigossi",
   "ig": "https://www.instagram.com/recortacine/reel/DdXQhyausK0/",
-  "origem": "instagram"
+  "origem": "instagram",
+  "gen": [
+   "Ação",
+   "Comédia",
+   "Terror",
+   "Suspense"
+  ]
  },
  {
   "id": "f51",
@@ -1289,7 +1450,11 @@
   "yt": "NIrDOSuwNk0",
   "yt_label": "Lady Macbeth | Trailer legendado",
   "ig": "https://www.instagram.com/sessaodanoite_/reel/DdPbF2_KHl5/",
-  "origem": "instagram"
+  "origem": "instagram",
+  "gen": [
+   "Drama",
+   "Romance"
+  ]
  },
  {
   "id": "f54",
@@ -1323,7 +1488,13 @@
   "yt": "TJ-q3_b3dkI",
   "yt_label": "The White Princess | Official Trailer | STARZ",
   "ig": "https://www.instagram.com/entreframes1/reel/DcKjRGLglpm/",
-  "origem": "instagram"
+  "origem": "instagram",
+  "gen": [
+   "Drama",
+   "História",
+   "Romance",
+   "Guerra"
+  ]
  },
  {
   "id": "f55",
@@ -1369,7 +1540,11 @@
   "yt": "6vyZbKp5AXE",
   "yt_label": "TEMOS VAGAS 2 TRAILER",
   "ig": "https://www.instagram.com/maismovies5/reel/DdILqh3mcQf/",
-  "origem": "instagram"
+  "origem": "instagram",
+  "gen": [
+   "Terror",
+   "Suspense"
+  ]
  },
  {
   "id": "f56",
@@ -1397,7 +1572,14 @@
   "yt": "sYXr3ZgyS2U",
   "yt_label": "FROM: Origem | 1ª Temporada | Trailer Legendado",
   "ig": "https://www.instagram.com/ju_pacheco.s/reel/DaIPhYkhPav/",
-  "origem": "instagram"
+  "origem": "instagram",
+  "gen": [
+   "Drama",
+   "Fantasia",
+   "Terror",
+   "Suspense",
+   "Ficção Científica"
+  ]
  },
  {
   "id": "f59",
@@ -1425,7 +1607,14 @@
   "yt": "fLYFVsv3K3o",
   "yt_label": "Oxigênio | Trailer oficial | Netflix",
   "ig": "https://www.instagram.com/recortacine/reel/DdENmfjDzjX/",
-  "origem": "instagram"
+  "origem": "instagram",
+  "gen": [
+   "Drama",
+   "Fantasia",
+   "Terror",
+   "Suspense",
+   "Ficção Científica"
+  ]
  },
  {
   "id": "f60",
@@ -1483,7 +1672,14 @@
   "yt": "XURio-_7QC4",
   "yt_label": "Trailer oficial: The Book of Clarence (legendado PT-BR)",
   "ig": "https://www.instagram.com/cortesfilmeeserie/reel/DdFiYSHxN7Q/",
-  "origem": "instagram"
+  "origem": "instagram",
+  "gen": [
+   "Ação",
+   "Comédia",
+   "Documentário",
+   "Drama",
+   "História"
+  ]
  },
  {
   "id": "f61",
@@ -1511,7 +1707,12 @@
   "yt": "pnW-NlwZcds",
   "yt_label": "Não me Abandone Jamais - Trailer",
   "ig": "https://www.instagram.com/sessaodasoito/reel/DdFkSgORrDS/",
-  "origem": "instagram"
+  "origem": "instagram",
+  "gen": [
+   "Drama",
+   "Romance",
+   "Ficção Científica"
+  ]
  },
  {
   "id": "f63",
@@ -1532,7 +1733,12 @@
   "yt": "vUfHbwdbPzw",
   "yt_label": "The Tomorrow People - Official Trailer",
   "ig": "https://www.instagram.com/series_fantasticass/reel/DdABuvuvRtx/",
-  "origem": "instagram"
+  "origem": "instagram",
+  "gen": [
+   "Ação",
+   "Drama",
+   "Ficção Científica"
+  ]
  },
  {
   "id": "f64",
@@ -1590,7 +1796,15 @@
   "yt": "9o3bT-BpoRY",
   "yt_label": "UMA NOITE DE CRIME: A FRONTEIRA – Trailer Oficial Dublado (Universal Pictures) HD",
   "ig": "https://www.instagram.com/nanycoliver/reel/DdAV3XQM-I5/",
-  "origem": "instagram"
+  "origem": "instagram",
+  "gen": [
+   "Ação",
+   "Crime",
+   "Drama",
+   "Terror",
+   "Suspense",
+   "Faroeste"
+  ]
  },
  {
   "id": "f66",
@@ -1611,7 +1825,12 @@
   "yt": "LMVNLW_fjaQ",
   "yt_label": "Amizade Maldita | Trailer EXCLUSIVO Legendado Oficial",
   "ig": "https://www.instagram.com/cinemax.player/reel/Das5KwVhbLj/",
-  "origem": "instagram"
+  "origem": "instagram",
+  "gen": [
+   "Drama",
+   "Terror",
+   "Suspense"
+  ]
  },
  {
   "id": "f68",
@@ -1645,7 +1864,14 @@
   "yt": "JF3XFu9tfn8",
   "yt_label": "Hitpig! O Herói da Bicharada 2024 Trailer Oficial Dublado",
   "ig": "https://www.instagram.com/viciad0_br4sil/reel/DcJTVz9i5xY/",
-  "origem": "instagram"
+  "origem": "instagram",
+  "gen": [
+   "Ação",
+   "Animação",
+   "Comédia",
+   "Crime",
+   "Família"
+  ]
  },
  {
   "id": "f70",
@@ -1679,7 +1905,13 @@
   "yt": "ptK8xI_akRc",
   "yt_label": "O Roubo | Trailer oficial | Prime Video",
   "ig": "https://www.instagram.com/express.popcorn/reel/Dc8xh23BFj_/",
-  "origem": "instagram"
+  "origem": "instagram",
+  "gen": [
+   "Ação",
+   "Crime",
+   "Drama",
+   "Suspense"
+  ]
  },
  {
   "id": "f71",
@@ -1737,7 +1969,13 @@
   "yt": "riONqDK-A7o",
   "yt_label": "Operação Overlord | Trailer Legendado",
   "ig": "https://www.instagram.com/querofilmes/reel/Dc7XPR2OAwD/",
-  "origem": "instagram"
+  "origem": "instagram",
+  "gen": [
+   "Ação",
+   "Terror",
+   "Ficção Científica",
+   "Guerra"
+  ]
  },
  {
   "id": "f72",
@@ -1758,7 +1996,13 @@
   "yt": "vpGL0jLuBKs",
   "yt_label": "A MISTERIOSA SOCIEDADE BENEDICT TRAILER LEGENDADO DA NOVA SÉRIE ORIGINAL NO DISNEY+",
   "ig": "https://www.instagram.com/terrorinvisivel/reel/Dc9mbNUx1K8/",
-  "origem": "instagram"
+  "origem": "instagram",
+  "gen": [
+   "Ação",
+   "Comédia",
+   "Drama",
+   "Família"
+  ]
  },
  {
   "id": "f73",
@@ -1792,7 +2036,12 @@
   "yt": "Su64uSciWU4",
   "yt_label": "CARTER Trailer Brasileiro Legendado (2022) Joo Won, Sung-Jae Lee",
   "ig": "https://www.instagram.com/temalguemassistindo/p/Dc7fnWmRlHa/",
-  "origem": "instagram"
+  "origem": "instagram",
+  "gen": [
+   "Ação",
+   "Crime",
+   "Suspense"
+  ]
  },
  {
   "id": "f77",
@@ -1820,7 +2069,13 @@
   "yt": "L5qtpG1kqfI",
   "yt_label": "The Worst of Evil | Official Trailer | Disney+ Singapore",
   "ig": "https://www.instagram.com/cine_fllix/reel/DcEQ7nHxo8Z/",
-  "origem": "instagram"
+  "origem": "instagram",
+  "gen": [
+   "Ação",
+   "Crime",
+   "Drama",
+   "Suspense"
+  ]
  },
  {
   "id": "f80",
@@ -1848,7 +2103,12 @@
   "yt": "qYhAX7GmLmA",
   "yt_label": "Hellraiser  Judgment 2018 Trailer Legendado",
   "ig": "https://www.instagram.com/qyveratv/reel/DbOaNj9N-RS/",
-  "origem": "instagram"
+  "origem": "instagram",
+  "gen": [
+   "Drama",
+   "Terror",
+   "Suspense"
+  ]
  },
  {
   "id": "f82",
@@ -1906,7 +2166,11 @@
   "yt": "b4pd7Tlpqak",
   "yt_label": "The Midnight Man – Official Trailer l HD l IFC Midnight",
   "ig": "https://www.instagram.com/leandrodocinema/reel/DczJwjJBhS9/",
-  "origem": "instagram"
+  "origem": "instagram",
+  "gen": [
+   "Fantasia",
+   "Terror"
+  ]
  },
  {
   "id": "f83",
@@ -1952,7 +2216,12 @@
   "yt": "eiYEU2geDIY",
   "yt_label": "Uma Família Feliz | Trailer Oficial",
   "ig": "https://www.instagram.com/filmes_do_brasil/reel/Dcv9s4IxYcN/",
-  "origem": "instagram"
+  "origem": "instagram",
+  "gen": [
+   "Drama",
+   "Terror",
+   "Suspense"
+  ]
  },
  {
   "id": "f84",
@@ -1998,7 +2267,14 @@
   "yt": "3B0Me5bIwos",
   "yt_label": "American Carnage (2022 Movie) Official Trailer – Eric Dane, Jenna Ortega",
   "ig": "https://www.instagram.com/psosuatvsemlimites_/reel/DcsPRmWp1Od/",
-  "origem": "instagram"
+  "origem": "instagram",
+  "gen": [
+   "Ação",
+   "Comédia",
+   "Terror",
+   "Suspense",
+   "Ficção Científica"
+  ]
  },
  {
   "id": "f85",
@@ -2032,7 +2308,14 @@
   "yt": "9AlL51_qAsI",
   "yt_label": "O Interminável | Trailer Legendado PT (HD)",
   "ig": "https://www.instagram.com/cinemamkplay/reel/DcgqEiavvo1/",
-  "origem": "instagram"
+  "origem": "instagram",
+  "gen": [
+   "Drama",
+   "Fantasia",
+   "Terror",
+   "Suspense",
+   "Ficção Científica"
+  ]
  },
  {
   "id": "f87",
@@ -2066,7 +2349,12 @@
   "yt": "S4uZJTnuKkw",
   "yt_label": "A Cor que Caiu do Espaço trailer TTF",
   "ig": "https://www.instagram.com/seriesfilmesecolecao/p/Db6zLfFHKLe/",
-  "origem": "instagram"
+  "origem": "instagram",
+  "gen": [
+   "Terror",
+   "Suspense",
+   "Ficção Científica"
+  ]
  },
  {
   "id": "f88",
@@ -2100,7 +2388,12 @@
   "yt": "vAeu1semlYc",
   "yt_label": "Jogo Perigoso | Trailer Oficial | Amazon Prime Video",
   "ig": "https://www.instagram.com/mundo_doterror/p/DcjTvqgOyw1/",
-  "origem": "instagram"
+  "origem": "instagram",
+  "gen": [
+   "Drama",
+   "Terror",
+   "Suspense"
+  ]
  },
  {
   "id": "f90",
@@ -2128,7 +2421,11 @@
   "yt": "DAZ-fpkjx4g",
   "yt_label": "Tully | Trailer Legendado",
   "ig": "https://www.instagram.com/flowcinebr/reel/Dclop6TkW5O/",
-  "origem": "instagram"
+  "origem": "instagram",
+  "gen": [
+   "Comédia",
+   "Drama"
+  ]
  },
  {
   "id": "f91",
@@ -2162,7 +2459,12 @@
   "yt": "JjsWYfGUl6E",
   "yt_label": "As Mulheres do Batalhão 6888 | Trailer oficial | Netflix",
   "ig": "https://www.instagram.com/raianarita/reel/DcRCz4Zidfr/",
-  "origem": "instagram"
+  "origem": "instagram",
+  "gen": [
+   "Drama",
+   "História",
+   "Guerra"
+  ]
  },
  {
   "id": "f92",
@@ -2196,7 +2498,11 @@
   "yt": "uYO7Z8mG5xA",
   "yt_label": "Trailer OUTLANDER - A VINGANÇA PT",
   "ig": "https://www.instagram.com/seriesdicasdoma_/p/DcAeNBHuiyA/",
-  "origem": "instagram"
+  "origem": "instagram",
+  "gen": [
+   "Ação",
+   "Ficção Científica"
+  ]
  },
  {
   "id": "f99",
@@ -2254,7 +2560,12 @@
   "yt": "BPhIXLMEBLE",
   "yt_label": "Until Dawn: Noite de Terror | Trailer Oficial Legendado",
   "ig": "https://www.instagram.com/sejapluscine/reel/DcmQCq6BDn-/",
-  "origem": "instagram"
+  "origem": "instagram",
+  "gen": [
+   "Drama",
+   "Terror",
+   "Suspense"
+  ]
  },
  {
   "id": "f100",
@@ -2275,7 +2586,12 @@
   "yt": "98MjozNFvLA",
   "yt_label": "Filme Exhuma- TRAILER LEGENDADO PT-BR 🇧🇷",
   "ig": "https://www.instagram.com/cine_fllix/reel/DcWEb2BRej6/",
-  "origem": "instagram"
+  "origem": "instagram",
+  "gen": [
+   "Drama",
+   "Terror",
+   "Suspense"
+  ]
  },
  {
   "id": "f103",
@@ -2309,7 +2625,11 @@
   "yt": "JtBPzOyf-aA",
   "yt_label": "Possuída no Deserto 2025 Trailer Legendado",
   "ig": "https://www.instagram.com/stefano_cineplay/reel/DcezW56tM1I/",
-  "origem": "instagram"
+  "origem": "instagram",
+  "gen": [
+   "Suspense",
+   "Faroeste"
+  ]
  },
  {
   "id": "f104",
@@ -2330,7 +2650,18 @@
   "yt": "49BZGPwawbQ",
   "yt_label": "BACK TO BLACK | Trailer Legendado",
   "ig": "https://www.instagram.com/cine_hubmax/reel/Dce8IY8Nlu-/",
-  "origem": "instagram"
+  "origem": "instagram",
+  "gen": [
+   "Ação",
+   "Comédia",
+   "Crime",
+   "Drama",
+   "Fantasia",
+   "Terror",
+   "Suspense",
+   "Romance",
+   "Ficção Científica"
+  ]
  },
  {
   "id": "f105",
@@ -2351,7 +2682,11 @@
   "yt": "azVTRz-RXho",
   "yt_label": "THE INCIDENT (EL INCIDENTE) | Official Selection | SCI-FI-LONDON Film Festival | Trailer",
   "ig": "https://www.instagram.com/juntosemissturados/reel/Dcd_bBNzuSQ/",
-  "origem": "instagram"
+  "origem": "instagram",
+  "gen": [
+   "Suspense",
+   "Ficção Científica"
+  ]
  },
  {
   "id": "f106",
@@ -2409,7 +2744,11 @@
   "yt": "7s0fcLuo4P0",
   "yt_label": "A Morte do Demônio: Em Chamas | Trailer Oficial Legendado",
   "ig": "https://www.instagram.com/cadumontee/reel/Dbb0fJahJti/",
-  "origem": "instagram"
+  "origem": "instagram",
+  "gen": [
+   "Terror",
+   "Suspense"
+  ]
  },
  {
   "id": "f107",
@@ -2455,7 +2794,12 @@
   "yt": "5tdsReegniA",
   "yt_label": "Slither Trailer #2 2006 ‧ Horror/Sci-fi ‧ James Gunn Movie",
   "ig": "https://www.instagram.com/terrornatv/reel/DZ53qltuRrZ/",
-  "origem": "instagram"
+  "origem": "instagram",
+  "gen": [
+   "Comédia",
+   "Terror",
+   "Ficção Científica"
+  ]
  },
  {
   "id": "f109",
@@ -2489,7 +2833,14 @@
   "yt": "pv99SaW2Hjc",
   "yt_label": "FEITIÇO DAS TREVAS (Dark Spell) 2021 Trailer Terror",
   "ig": "https://www.instagram.com/conexao.filmess/reel/DccXlZ4NtzU/",
-  "origem": "instagram"
+  "origem": "instagram",
+  "gen": [
+   "Drama",
+   "Fantasia",
+   "Terror",
+   "Suspense",
+   "Romance"
+  ]
  },
  {
   "id": "f111",
@@ -2529,7 +2880,12 @@
   "yt": "v2wLqwoFtvk",
   "yt_label": "TRAILER - O Lamento (Legendado)",
   "ig": "https://www.instagram.com/takescurto/reel/DcIKwj2hkFP/",
-  "origem": "instagram"
+  "origem": "instagram",
+  "gen": [
+   "Drama",
+   "Terror",
+   "Suspense"
+  ]
  },
  {
   "id": "f112",
@@ -2563,7 +2919,13 @@
   "yt": "N8LKWwJeWy0",
   "yt_label": "The Leftovers Temporada 1 | Trailer",
   "ig": "https://www.instagram.com/pipoca.agora/reel/DcWhK-QhHfV/",
-  "origem": "instagram"
+  "origem": "instagram",
+  "gen": [
+   "Drama",
+   "Fantasia",
+   "Suspense",
+   "Ficção Científica"
+  ]
  },
  {
   "id": "f113",
@@ -2597,7 +2959,14 @@
   "yt": "OrwH3ZZMr48",
   "yt_label": "CITY HUNTER Trailer Brasileiro Legendado (2024)",
   "ig": "https://www.instagram.com/cinemaxtreamofc/reel/DcUfMESJSq2/",
-  "origem": "instagram"
+  "origem": "instagram",
+  "gen": [
+   "Ação",
+   "Comédia",
+   "Crime",
+   "Romance",
+   "Ficção Científica"
+  ]
  },
  {
   "id": "f114",
@@ -2631,7 +3000,11 @@
   "yt": "C8JJudBy2Sg",
   "yt_label": "The Order (2001) - Official Theatrical Trailer [HD] - Van Damme",
   "ig": "https://www.instagram.com/nexocinebr2026/reel/DcRyGAqxlyF/",
-  "origem": "instagram"
+  "origem": "instagram",
+  "gen": [
+   "Ação",
+   "Comédia"
+  ]
  },
  {
   "id": "f115",
@@ -2652,7 +3025,13 @@
   "yt": "suSi2LEOvwc",
   "yt_label": "Vozes na Escuridão (The Voices) - Trailer Dublado [2020]",
   "ig": "https://www.instagram.com/telabizarra_/reel/DcPXglqyY97/",
-  "origem": "instagram"
+  "origem": "instagram",
+  "gen": [
+   "Drama",
+   "Fantasia",
+   "Terror",
+   "Suspense"
+  ]
  },
  {
   "id": "f117",
@@ -2710,7 +3089,12 @@
   "yt": "-5E9rjsNUFo",
   "yt_label": "Os Radley | Trailer Legendado",
   "ig": "https://www.instagram.com/piece_flix/reel/Db4LTvjx2TC/",
-  "origem": "instagram"
+  "origem": "instagram",
+  "gen": [
+   "Comédia",
+   "Terror",
+   "Suspense"
+  ]
  },
  {
   "id": "f120",
@@ -2756,7 +3140,12 @@
   "yt": "bWLq1MFt-pU",
   "yt_label": "Insaciável (2026) | Trailer Legendado",
   "ig": "https://www.instagram.com/noexitcult/reel/DZZJc65gfM_/",
-  "origem": "instagram"
+  "origem": "instagram",
+  "gen": [
+   "Drama",
+   "Terror",
+   "Ficção Científica"
+  ]
  },
  {
   "id": "f121",
@@ -2790,7 +3179,13 @@
   "yt": "8uRh5WQ4_Bo",
   "yt_label": "Future Man (PTBR) Trailer Legendado -  Josh Hutcherson - #retrowave @RetroWave2000",
   "ig": "https://www.instagram.com/cinema_play2026/reel/Db_KVT4ReQl/",
-  "origem": "instagram"
+  "origem": "instagram",
+  "gen": [
+   "Ação",
+   "Comédia",
+   "Fantasia",
+   "Ficção Científica"
+  ]
  },
  {
   "id": "f122",
@@ -2824,7 +3219,10 @@
   "yt": "yaPcWvqOIBM",
   "yt_label": "The Newsroom Temporada 1 | Trailer",
   "ig": "https://www.instagram.com/geekdearaque/reel/Db55MUzOQ6B/",
-  "origem": "instagram"
+  "origem": "instagram",
+  "gen": [
+   "Drama"
+  ]
  },
  {
   "id": "f124",
@@ -2882,7 +3280,12 @@
   "yt": "FVOw5iaM38Q",
   "yt_label": "Jurado Nº 2 ¦ 2024 ¦ Trailer Legendado ¦ Clint Eastwood",
   "ig": "https://www.instagram.com/ferreiraindica/reel/DawImp7qeHL/",
-  "origem": "instagram"
+  "origem": "instagram",
+  "gen": [
+   "Crime",
+   "Drama",
+   "Suspense"
+  ]
  },
  {
   "id": "f126",
@@ -2922,7 +3325,12 @@
   "yt": "AQ7HLYfHzpw",
   "yt_label": "We Go On - Official Trailer",
   "ig": "https://www.instagram.com/vaannes/reel/Db4W93ABidX/",
-  "origem": "instagram"
+  "origem": "instagram",
+  "gen": [
+   "Drama",
+   "Terror",
+   "Suspense"
+  ]
  },
  {
   "id": "f127",
@@ -2950,7 +3358,11 @@
   "yt": "SbXzyOJTP7U",
   "yt_label": "O Surfista (The Surfer) - Trailer Legendado (2025) Nicolas Cage",
   "ig": "https://www.instagram.com/cinemaniabr_/reel/Db24GYMxYSM/",
-  "origem": "instagram"
+  "origem": "instagram",
+  "gen": [
+   "Drama",
+   "Suspense"
+  ]
  },
  {
   "id": "f128",
@@ -3008,7 +3420,12 @@
   "yt": "8mEZv1nQdVw",
   "yt_label": "Sisu - Uma História de Determinação (2023) | Trailer Legendado",
   "ig": "https://www.instagram.com/piratascenas/reel/DbyNDBsR1tE/",
-  "origem": "instagram"
+  "origem": "instagram",
+  "gen": [
+   "Ação",
+   "Suspense",
+   "Guerra"
+  ]
  },
  {
   "id": "a1",
@@ -3048,7 +3465,12 @@
   "yt": "pUcsPl2ikk4",
   "yt_label": "Swallowed Star S1 Trailer",
   "ig": "https://www.instagram.com/recortacine/reel/Dd_b3tziRV4/",
-  "origem": "instagram"
+  "origem": "instagram",
+  "gen": [
+   "Ação",
+   "Animação",
+   "Ficção Científica"
+  ]
  },
  {
   "id": "a2",
@@ -3082,7 +3504,15 @@
   "yt": "24gT8SNWhdo",
   "yt_label": "The Misfit of Demon King Academy | TRAILER OFICIAL",
   "ig": "https://www.instagram.com/otakaria.house/reel/Db54qmNJQdF/",
-  "origem": "instagram"
+  "origem": "instagram",
+  "gen": [
+   "Ação",
+   "Animação",
+   "Comédia",
+   "Fantasia",
+   "Romance",
+   "Ficção Científica"
+  ]
  },
  {
   "id": "a3",
@@ -3116,7 +3546,14 @@
   "yt": "w8cicProunA",
   "yt_label": "The Devil is a Part-Timer! 2ª temporada | TRAILER OFICIAL",
   "ig": "https://www.instagram.com/kiyoshi_animes/reel/DdHw5gEusCy/",
-  "origem": "instagram"
+  "origem": "instagram",
+  "gen": [
+   "Ação",
+   "Animação",
+   "Comédia",
+   "Fantasia",
+   "Ficção Científica"
+  ]
  },
  {
   "id": "a4",
@@ -3150,7 +3587,12 @@
   "yt": "ZtWPDnJr8uA",
   "yt_label": "The Insipid Prince's Furtive Grab for The Throne | TEASER OFICIAL",
   "ig": "https://www.instagram.com/1lucasfranco/reel/Da6hEyRR2oG/",
-  "origem": "instagram"
+  "origem": "instagram",
+  "gen": [
+   "Ação",
+   "Animação",
+   "Ficção Científica"
+  ]
  },
  {
   "id": "a6",
@@ -3184,7 +3626,13 @@
   "yt": "ujv2fLp3lU8",
   "yt_label": "Solo Leveling | TRAILER OFICIAL",
   "ig": "https://www.instagram.com/renopacifico/reel/DancOmyxk9s/",
-  "origem": "instagram"
+  "origem": "instagram",
+  "gen": [
+   "Ação",
+   "Animação",
+   "Fantasia",
+   "Ficção Científica"
+  ]
  },
  {
   "id": "a7",
@@ -3218,7 +3666,13 @@
   "yt": "E97qOyz7pj0",
   "yt_label": "Tomb Raider King | TRAILER OFICIAL",
   "ig": "https://www.instagram.com/fora_da_tela_/reel/Dai9ahFsUHm/",
-  "origem": "instagram"
+  "origem": "instagram",
+  "gen": [
+   "Ação",
+   "Animação",
+   "Fantasia",
+   "Ficção Científica"
+  ]
  },
  {
   "id": "a8",
@@ -3252,7 +3706,13 @@
   "yt": "-FzTVkZNCRM",
   "yt_label": "Chainsaw Man | TRAILER PRINCIPAL",
   "ig": "https://www.instagram.com/oficialcrazylifebrasil/reel/DZw5Q6wCQIs/",
-  "origem": "instagram"
+  "origem": "instagram",
+  "gen": [
+   "Ação",
+   "Animação",
+   "Fantasia",
+   "Ficção Científica"
+  ]
  },
  {
   "id": "f19",
@@ -3273,7 +3733,12 @@
   "yt": "3CxYF0tpIwY",
   "yt_label": "BESTA (Beast) | Trailer Legendado PT | Russell Crowe, Luke Hemsworth",
   "ig": "https://www.instagram.com/film.clipusa/reel/DeB5fuPJtUo/",
-  "origem": "instagram"
+  "origem": "instagram",
+  "gen": [
+   "Ação",
+   "Drama",
+   "Suspense"
+  ]
  },
  {
   "id": "f26",
@@ -3294,7 +3759,12 @@
   "yt": "sZu3sVK3JOE",
   "yt_label": "I Am A Hero Official Trailer",
   "ig": "https://www.instagram.com/primeapp_indica/reel/DbB5mJiRaeh/",
-  "origem": "instagram"
+  "origem": "instagram",
+  "gen": [
+   "Ação",
+   "Drama",
+   "Terror"
+  ]
  },
  {
   "id": "f31",
@@ -3315,7 +3785,12 @@
   "yt": "zo3T6OTbIws",
   "yt_label": "Calculator (Tráiler HD)  Part 2 Trailer ",
   "ig": "https://www.instagram.com/club.cinevia/reel/Dd4QgmvQePh/",
-  "origem": "instagram"
+  "origem": "instagram",
+  "gen": [
+   "Ação",
+   "Suspense",
+   "Ficção Científica"
+  ]
  },
  {
   "id": "f49",
@@ -3336,7 +3811,11 @@
   "yt": "JcFA-eesBzw",
   "yt_label": "HEAD COUNT (2018) | Trailer Legendado",
   "ig": "https://www.instagram.com/ree.franco/reel/DdPePGBhciB/",
-  "origem": "instagram"
+  "origem": "instagram",
+  "gen": [
+   "Terror",
+   "Suspense"
+  ]
  },
  {
   "id": "Dbrfij3OaMT",
@@ -3370,7 +3849,12 @@
   "yt": "0Gx8ZZZAiFo",
   "yt_label": "Marianne | Trailer principal | Netflix",
   "ig": "https://www.instagram.com/p/Dbrfij3OaMT/",
-  "origem": "instagram2"
+  "origem": "instagram2",
+  "gen": [
+   "Drama",
+   "Terror",
+   "Suspense"
+  ]
  },
  {
   "id": "Dbl9bRtBcKC",
@@ -3391,7 +3875,12 @@
   "yt": "izN1wAQpBZ8",
   "yt_label": "Lobis-homem | Trailer Oficial Legendado",
   "ig": "https://www.instagram.com/p/Dbl9bRtBcKC/",
-  "origem": "instagram2"
+  "origem": "instagram2",
+  "gen": [
+   "Fantasia",
+   "Terror",
+   "Suspense"
+  ]
  },
  {
   "id": "DZnQtbwNugi",
@@ -3437,7 +3926,12 @@
   "yt": "pNh1bsIbXJY",
   "yt_label": "Boa Sorte, Divirta-se, Não Morra | Trailer Oficial Legendado",
   "ig": "https://www.instagram.com/p/DZnQtbwNugi/",
-  "origem": "instagram2"
+  "origem": "instagram2",
+  "gen": [
+   "Ação",
+   "Comédia",
+   "Ficção Científica"
+  ]
  },
  {
   "id": "DbitvzfAjSY",
@@ -3471,7 +3965,12 @@
   "yt": "wMhFVMQ5i5I",
   "yt_label": "A Bruxa da Casa ao Lado | Trailer",
   "ig": "https://www.instagram.com/p/DbitvzfAjSY/",
-  "origem": "instagram2"
+  "origem": "instagram2",
+  "gen": [
+   "Drama",
+   "Terror",
+   "Suspense"
+  ]
  },
  {
   "id": "DZ0qrrevyU4",
@@ -3523,7 +4022,12 @@
   "yt": "KyAY9O-4Ysk",
   "yt_label": "\"Leva-me Para a Lua\" - Trailer #1 Oficial (Sony Pictures Portugal)",
   "ig": "https://www.instagram.com/p/DZ0qrrevyU4/",
-  "origem": "instagram2"
+  "origem": "instagram2",
+  "gen": [
+   "Comédia",
+   "Drama",
+   "Romance"
+  ]
  },
  {
   "id": "DbdjZsCxfTd",
@@ -3569,7 +4073,12 @@
   "yt": "libpjT_JkMM",
   "yt_label": "Arena Trailer Legendado PT-BR",
   "ig": "https://www.instagram.com/p/DbdjZsCxfTd/",
-  "origem": "instagram2"
+  "origem": "instagram2",
+  "gen": [
+   "Ação",
+   "Suspense",
+   "Ficção Científica"
+  ]
  },
  {
   "id": "DbgcFRcxncJ",
@@ -3615,7 +4124,12 @@
   "yt": "RG4MPjhDLF8",
   "yt_label": "Caso 39 - Trailer Legendado",
   "ig": "https://www.instagram.com/p/DbgcFRcxncJ/",
-  "origem": "instagram2"
+  "origem": "instagram2",
+  "gen": [
+   "Drama",
+   "Terror",
+   "Suspense"
+  ]
  },
  {
   "id": "DbEroAmuNKb",
@@ -3667,7 +4181,11 @@
   "yt": "bVfHNhBcMTw",
   "yt_label": "K-PAX Official Trailer #1 - Jeff Bridges Movie (2001) HD",
   "ig": "https://www.instagram.com/p/DbEroAmuNKb/",
-  "origem": "instagram2"
+  "origem": "instagram2",
+  "gen": [
+   "Drama",
+   "Ficção Científica"
+  ]
  },
  {
   "id": "DbWDW8eu_9K",
@@ -3701,7 +4219,10 @@
   "yt": "s-PdfZ9a6oI",
   "yt_label": "Verónica | Trailer Legendado PT (HD)",
   "ig": "https://www.instagram.com/p/DbWDW8eu_9K/",
-  "origem": "instagram2"
+  "origem": "instagram2",
+  "gen": [
+   "Terror"
+  ]
  },
  {
   "id": "DbQ2-f1gJ9r",
@@ -3735,7 +4256,13 @@
   "yt": "2t804PsSjRo",
   "yt_label": "CUANDO LOS ANGELES DUERMEN Tráiler 60\". Ya en cines",
   "ig": "https://www.instagram.com/p/DbQ2-f1gJ9r/",
-  "origem": "instagram2"
+  "origem": "instagram2",
+  "gen": [
+   "Crime",
+   "Drama",
+   "Terror",
+   "Suspense"
+  ]
  },
  {
   "id": "DatyoZqADxm",
@@ -3769,7 +4296,12 @@
   "yt": "jF1AE0jIZCk",
   "yt_label": "O Fabricante de Lágrimas | Trailer Oficial | Netflix",
   "ig": "https://www.instagram.com/p/DatyoZqADxm/",
-  "origem": "instagram2"
+  "origem": "instagram2",
+  "gen": [
+   "Drama",
+   "Fantasia",
+   "Romance"
+  ]
  },
  {
   "id": "Da7zO3OgKdw",
@@ -3821,7 +4353,12 @@
   "yt": "WAg88Vlh_tw",
   "yt_label": "Um Olhar do Paraíso | Trailer | Legendado (Brasil) (FHD)",
   "ig": "https://www.instagram.com/p/Da7zO3OgKdw/",
-  "origem": "instagram2"
+  "origem": "instagram2",
+  "gen": [
+   "Drama",
+   "Fantasia",
+   "Suspense"
+  ]
  },
  {
   "id": "DasqStNJpwO",
@@ -3867,7 +4404,13 @@
   "yt": "ZUQ014gASCI",
   "yt_label": "Águas que Corroem | Trailer | Legendado (Brasil) (FHD)",
   "ig": "https://www.instagram.com/p/DasqStNJpwO/",
-  "origem": "instagram2"
+  "origem": "instagram2",
+  "gen": [
+   "Ação",
+   "Crime",
+   "Drama",
+   "Suspense"
+  ]
  },
  {
   "id": "DbCSAzYxEBx",
@@ -3919,7 +4462,11 @@
   "yt": "nDrQfaz0p6g",
   "yt_label": "Perseguição em Taipei 2024 Trailer Legendado",
   "ig": "https://www.instagram.com/p/DbCSAzYxEBx/",
-  "origem": "instagram2"
+  "origem": "instagram2",
+  "gen": [
+   "Ação",
+   "Suspense"
+  ]
  },
  {
   "id": "DasfZxKs2Kk",
@@ -3953,7 +4500,11 @@
   "yt": "ifsaacO0SIE",
   "yt_label": "A Ira de Deus | Trailer | Dublado (Brasil) [4K]",
   "ig": "https://www.instagram.com/p/DasfZxKs2Kk/",
-  "origem": "instagram2"
+  "origem": "instagram2",
+  "gen": [
+   "Drama",
+   "Suspense"
+  ]
  },
  {
   "id": "DX9f4iKMyyP",
@@ -3987,7 +4538,13 @@
   "yt": "gZ9iBt1Tv_g",
   "yt_label": "O SEGREDO DE WIDOW'S BAY | Teaser Trailer (2026) Legendado",
   "ig": "https://www.instagram.com/p/DX9f4iKMyyP/",
-  "origem": "instagram2"
+  "origem": "instagram2",
+  "gen": [
+   "Comédia",
+   "Drama",
+   "Terror",
+   "Suspense"
+  ]
  },
  {
   "id": "DYAR7j6qXEc",
@@ -4008,7 +4565,12 @@
   "yt": "ZhTbvVRhTwc",
   "yt_label": "Resident Evil | Trailer Oficial | Legendado",
   "ig": "https://www.instagram.com/p/DYAR7j6qXEc/",
-  "origem": "instagram2"
+  "origem": "instagram2",
+  "gen": [
+   "Ação",
+   "Terror",
+   "Ficção Científica"
+  ]
  },
  {
   "id": "Da6UdqpObjv",
@@ -4042,7 +4604,12 @@
   "yt": "GnRF_85BgKA",
   "yt_label": "Ninguém Sai Vivo | Trailer oficial | Netflix",
   "ig": "https://www.instagram.com/p/Da6UdqpObjv/",
-  "origem": "instagram2"
+  "origem": "instagram2",
+  "gen": [
+   "Drama",
+   "Terror",
+   "Suspense"
+  ]
  },
  {
   "id": "DaV8z85spJw",
@@ -4076,7 +4643,10 @@
   "yt": "L6t2qkqwfKY",
   "yt_label": "Criatura Voraz (2025) | IT FEEDS | Trailer Legendado",
   "ig": "https://www.instagram.com/p/DaV8z85spJw/",
-  "origem": "instagram2"
+  "origem": "instagram2",
+  "gen": [
+   "Terror"
+  ]
  },
  {
   "id": "Da0LVVkplkz",
@@ -4097,7 +4667,11 @@
   "yt": "pQ_mbrY11So",
   "yt_label": "#SiapaPergiDiaMati | Official 'PULAU' International Trailer | In Cinema 9 MARCH 2023 |",
   "ig": "https://www.instagram.com/p/Da0LVVkplkz/",
-  "origem": "instagram2"
+  "origem": "instagram2",
+  "gen": [
+   "Terror",
+   "Suspense"
+  ]
  },
  {
   "id": "DZquxoMunO6",
@@ -4155,7 +4729,12 @@
   "yt": "oSdHlMk6a2A",
   "yt_label": "ALPHA, de Julia Ducournau | Trailer oficial legendado",
   "ig": "https://www.instagram.com/p/DZquxoMunO6/",
-  "origem": "instagram2"
+  "origem": "instagram2",
+  "gen": [
+   "Drama",
+   "Terror",
+   "Ficção Científica"
+  ]
  },
  {
   "id": "DYV96wzgEoa",
@@ -4201,7 +4780,12 @@
   "yt": "TPRuGa6gLBw",
   "yt_label": "Armadilha Mortal | Trailer legendado",
   "ig": "https://www.instagram.com/p/DYV96wzgEoa/",
-  "origem": "instagram2"
+  "origem": "instagram2",
+  "gen": [
+   "Ação",
+   "Terror",
+   "Suspense"
+  ]
  },
  {
   "id": "Da3XES0vhnO",
@@ -4235,7 +4819,11 @@
   "yt": "8gYR2-ktvxg",
   "yt_label": "Margin Call - O Dia Antes do Fim - Trailer Legendado",
   "ig": "https://www.instagram.com/p/Da3XES0vhnO/",
-  "origem": "instagram2"
+  "origem": "instagram2",
+  "gen": [
+   "Drama",
+   "Suspense"
+  ]
  },
  {
   "id": "DZnUC4dpZdx",
@@ -4256,7 +4844,12 @@
   "yt": "_J58nk3vhmQ",
   "yt_label": "The Shade 2023 Trailer Legendado",
   "ig": "https://www.instagram.com/p/DZnUC4dpZdx/",
-  "origem": "instagram2"
+  "origem": "instagram2",
+  "gen": [
+   "Drama",
+   "Terror",
+   "Suspense"
+  ]
  },
  {
   "id": "Da48-JNC4mh",
@@ -4302,7 +4895,12 @@
   "yt": "66EZ1iOsOtA",
   "yt_label": "MILLER'S GIRL Trailer (2024) Jenna Ortega, Martin Freeman",
   "ig": "https://www.instagram.com/p/Da48-JNC4mh/",
-  "origem": "instagram2"
+  "origem": "instagram2",
+  "gen": [
+   "Comédia",
+   "Drama",
+   "Suspense"
+  ]
  },
  {
   "id": "DYuyoekvDBZ",
@@ -4360,7 +4958,11 @@
   "yt": "5JhDrrxt9JA",
   "yt_label": "ATIVIDADE PARANORMAL: MARCADOS PELO MAL - Trailer HD Legendado",
   "ig": "https://www.instagram.com/p/DYuyoekvDBZ/",
-  "origem": "instagram2"
+  "origem": "instagram2",
+  "gen": [
+   "Terror",
+   "Suspense"
+  ]
  },
  {
   "id": "DZ-spfrIw5s",
@@ -4418,7 +5020,11 @@
   "yt": "QbXOCYU1dQc",
   "yt_label": "PRESENÇA | Trailer Legendado",
   "ig": "https://www.instagram.com/p/DZ-spfrIw5s/",
-  "origem": "instagram2"
+  "origem": "instagram2",
+  "gen": [
+   "Drama",
+   "Ficção Científica"
+  ]
  },
  {
   "id": "DYF8eOQCueD",
@@ -4470,7 +5076,12 @@
   "yt": "QbXOCYU1dQc",
   "yt_label": "PRESENÇA | Trailer Legendado",
   "ig": "https://www.instagram.com/p/DYF8eOQCueD/",
-  "origem": "instagram2"
+  "origem": "instagram2",
+  "gen": [
+   "Drama",
+   "Terror",
+   "Suspense"
+  ]
  },
  {
   "id": "DaeLhaRRwAI",
@@ -4504,7 +5115,12 @@
   "yt": "7ol6M0NwDa4",
   "yt_label": "Um Clássico Filme de Terror • Trailer Legendado",
   "ig": "https://www.instagram.com/p/DaeLhaRRwAI/",
-  "origem": "instagram2"
+  "origem": "instagram2",
+  "gen": [
+   "Drama",
+   "Terror",
+   "Suspense"
+  ]
  },
  {
   "id": "DasidrLBXWv",
@@ -4550,7 +5166,12 @@
   "yt": "rIauAfLuc9A",
   "yt_label": "O Rebanho l  Trailer Legendado  [HD]   (2021)   l Filme  Terror",
   "ig": "https://www.instagram.com/p/DasidrLBXWv/",
-  "origem": "instagram2"
+  "origem": "instagram2",
+  "gen": [
+   "Drama",
+   "Terror",
+   "Suspense"
+  ]
  },
  {
   "id": "Dap-UrtSDJn",
@@ -4571,7 +5192,13 @@
   "yt": "uxM6vsMNwXs",
   "yt_label": "RE:BORN (New & Exclusive) UK Trailer",
   "ig": "https://www.instagram.com/p/Dap-UrtSDJn/",
-  "origem": "instagram2"
+  "origem": "instagram2",
+  "gen": [
+   "Ação",
+   "Crime",
+   "Drama",
+   "Guerra"
+  ]
  },
  {
   "id": "DaiRcIWAqh8",
@@ -4611,7 +5238,11 @@
   "yt": "_YE0SAHLju0",
   "yt_label": "Hell House - A Origem (Hell House Origins) | Trailer Dublado",
   "ig": "https://www.instagram.com/p/DaiRcIWAqh8/",
-  "origem": "instagram2"
+  "origem": "instagram2",
+  "gen": [
+   "Terror",
+   "Suspense"
+  ]
  },
  {
   "id": "DYLcVj4SKy-",
@@ -4639,7 +5270,11 @@
   "yt": "LabusT2EYH0",
   "yt_label": "Possuída / The Possession (Trailer legendado em Português)",
   "ig": "https://www.instagram.com/p/DYLcVj4SKy-/",
-  "origem": "instagram2"
+  "origem": "instagram2",
+  "gen": [
+   "Terror",
+   "Suspense"
+  ]
  },
  {
   "id": "Dabww_YRkuu",
@@ -4691,7 +5326,11 @@
   "yt": "fbHlVnczLF0",
   "yt_label": "A Casa do Terror [Haunt] - [2019] - Trailer Dublado",
   "ig": "https://www.instagram.com/p/Dabww_YRkuu/",
-  "origem": "instagram2"
+  "origem": "instagram2",
+  "gen": [
+   "Terror",
+   "Suspense"
+  ]
  },
  {
   "id": "DabjjoNjY0E",
@@ -4737,7 +5376,13 @@
   "yt": "ivG-FhggRwc",
   "yt_label": "TUNER: OUVIDO ABSOLUTO, MÃO LEVE - (Trailer legendado Portugal)",
   "ig": "https://www.instagram.com/p/DabjjoNjY0E/",
-  "origem": "instagram2"
+  "origem": "instagram2",
+  "gen": [
+   "Crime",
+   "Drama",
+   "Música",
+   "Suspense"
+  ]
  },
  {
   "id": "DaY5dIaj1KB",
@@ -4795,7 +5440,11 @@
   "yt": "wzpDHekJ_gw",
   "yt_label": "PARA SEMPRE MEDO | Trailer Oficial Legendado",
   "ig": "https://www.instagram.com/p/DaY5dIaj1KB/",
-  "origem": "instagram2"
+  "origem": "instagram2",
+  "gen": [
+   "Terror",
+   "Suspense"
+  ]
  },
  {
   "id": "DaPch5byHPo",
@@ -4841,7 +5490,12 @@
   "yt": "IthsGvWFOEc",
   "yt_label": "A bruxa: A subversão - Parte 1 | Trailer legendado em Pt-br 2018",
   "ig": "https://www.instagram.com/p/DaPch5byHPo/",
-  "origem": "instagram2"
+  "origem": "instagram2",
+  "gen": [
+   "Ação",
+   "Drama",
+   "Ficção Científica"
+  ]
  },
  {
   "id": "DaZDg53NEHt",
@@ -4862,7 +5516,13 @@
   "yt": "uKduotU2lb8",
   "yt_label": "Último Sentinela 2023 Trailer Legendado",
   "ig": "https://www.instagram.com/p/DaZDg53NEHt/",
-  "origem": "instagram2"
+  "origem": "instagram2",
+  "gen": [
+   "Drama",
+   "Terror",
+   "Suspense",
+   "Ficção Científica"
+  ]
  },
  {
   "id": "DZynVqXx4RY",
@@ -4908,7 +5568,12 @@
   "yt": "qFYtIl8kA-o",
   "yt_label": "Brimstone - Castigo (Trailer Legendado)",
   "ig": "https://www.instagram.com/p/DZynVqXx4RY/",
-  "origem": "instagram2"
+  "origem": "instagram2",
+  "gen": [
+   "Drama",
+   "Suspense",
+   "Faroeste"
+  ]
  },
  {
   "id": "DXAgez4D9Cg",
@@ -4929,7 +5594,12 @@
   "yt": "KTZJeilX5wI",
   "yt_label": "The Woman Trailer Legendado HD",
   "ig": "https://www.instagram.com/p/DXAgez4D9Cg/",
-  "origem": "instagram2"
+  "origem": "instagram2",
+  "gen": [
+   "Drama",
+   "Terror",
+   "Suspense"
+  ]
  },
  {
   "id": "DaSA-2CoIhA",
@@ -4950,7 +5620,12 @@
   "yt": "9uC7_PFQgCc",
   "yt_label": "The Queen of Black Magic - Official Trailer [HD] | A Shudder Original",
   "ig": "https://www.instagram.com/p/DaSA-2CoIhA/",
-  "origem": "instagram2"
+  "origem": "instagram2",
+  "gen": [
+   "Drama",
+   "Terror",
+   "Suspense"
+  ]
  },
  {
   "id": "DZWEpjJuAgf",
@@ -4978,7 +5653,14 @@
   "yt": "-biQK8le1wI",
   "yt_label": "The Last Man On Earth (FOX) (Trialer) - Official TV Trailer HD",
   "ig": "https://www.instagram.com/p/DZWEpjJuAgf/",
-  "origem": "instagram2"
+  "origem": "instagram2",
+  "gen": [
+   "Ação",
+   "Comédia",
+   "Drama",
+   "Romance",
+   "Ficção Científica"
+  ]
  },
  {
   "id": "DaMRgz4Oibo",
@@ -5018,7 +5700,11 @@
   "yt": "kYNKgV0G99E",
   "yt_label": "O Cadáver de Anna Fritz - (Trailer legendado português PT)",
   "ig": "https://www.instagram.com/p/DaMRgz4Oibo/",
-  "origem": "instagram2"
+  "origem": "instagram2",
+  "gen": [
+   "Drama",
+   "Suspense"
+  ]
  },
  {
   "id": "DY2lPbAs5UX",
@@ -5039,7 +5725,11 @@
   "yt": "_QB6-6mrcpQ",
   "yt_label": "Normal People | Trailer da temporada 01 | Legendado (Brasil) [HD]",
   "ig": "https://www.instagram.com/p/DY2lPbAs5UX/",
-  "origem": "instagram2"
+  "origem": "instagram2",
+  "gen": [
+   "Drama",
+   "Romance"
+  ]
  },
  {
   "id": "DZ_DlrqNmuL",
@@ -5060,7 +5750,11 @@
   "yt": "BvjTmx5kA24",
   "yt_label": "3096 Dias (3096 days) 2013 - Trailer legendado HD",
   "ig": "https://www.instagram.com/p/DZ_DlrqNmuL/",
-  "origem": "instagram2"
+  "origem": "instagram2",
+  "gen": [
+   "Crime",
+   "Drama"
+  ]
  },
  {
   "id": "DZ2hPZLuzfL",
@@ -5081,7 +5775,11 @@
   "yt": "sHjklAjoSZE",
   "yt_label": "Meu Professor, Minha Obsessão - Trailer Oficial",
   "ig": "https://www.instagram.com/p/DZ2hPZLuzfL/",
-  "origem": "instagram2"
+  "origem": "instagram2",
+  "gen": [
+   "Drama",
+   "Suspense"
+  ]
  },
  {
   "id": "DaHCr5Vhb-j",
@@ -5102,7 +5800,12 @@
   "yt": "rf2_V4CQrpE",
   "yt_label": "(Re)Nascer 2023 Trailer Legendado",
   "ig": "https://www.instagram.com/p/DaHCr5Vhb-j/",
-  "origem": "instagram2"
+  "origem": "instagram2",
+  "gen": [
+   "Drama",
+   "Terror",
+   "Suspense"
+  ]
  },
  {
   "id": "DZvdWbuh9vv",
@@ -5148,7 +5851,12 @@
   "yt": "it3Xcdo4Y30",
   "yt_label": "TRAILER OFICIAL  | FILME RENÚNCIA O PREÇO DA VERDADE",
   "ig": "https://www.instagram.com/p/DZvdWbuh9vv/",
-  "origem": "instagram2"
+  "origem": "instagram2",
+  "gen": [
+   "Drama",
+   "Terror",
+   "Suspense"
+  ]
  },
  {
   "id": "DXy0l-LRH7g",
@@ -5206,7 +5914,11 @@
   "yt": "6Y3QdYdobFw",
   "yt_label": "A Maldição da Chorona | Trailer Legendado",
   "ig": "https://www.instagram.com/p/DXy0l-LRH7g/",
-  "origem": "instagram2"
+  "origem": "instagram2",
+  "gen": [
+   "Terror",
+   "Suspense"
+  ]
  },
  {
   "id": "DZVJP77oSiz",
@@ -5240,7 +5952,13 @@
   "yt": "i-xrARv7g6Q",
   "yt_label": "Inteligência Humana | TRAILER OFICIAL | Netflix",
   "ig": "https://www.instagram.com/p/DZVJP77oSiz/",
-  "origem": "instagram2"
+  "origem": "instagram2",
+  "gen": [
+   "Ação",
+   "Crime",
+   "Drama",
+   "Suspense"
+  ]
  },
  {
   "id": "DZGppDQpW84",
@@ -5286,7 +6004,12 @@
   "yt": "ME-cZYpDnIA",
   "yt_label": "Inferno no Pântano (2025) | Trailer Legendado",
   "ig": "https://www.instagram.com/p/DZGppDQpW84/",
-  "origem": "instagram2"
+  "origem": "instagram2",
+  "gen": [
+   "Ação",
+   "Terror",
+   "Suspense"
+  ]
  },
  {
   "id": "DZFvfLYukWF",
@@ -5320,7 +6043,11 @@
   "yt": "adkmIMpHyfU",
   "yt_label": "A Ilha da Fantasia | Trailer Legendado",
   "ig": "https://www.instagram.com/p/DZFvfLYukWF/",
-  "origem": "instagram2"
+  "origem": "instagram2",
+  "gen": [
+   "Fantasia",
+   "Terror"
+  ]
  },
  {
   "id": "DYxCDThxA47",
@@ -5354,7 +6081,11 @@
   "yt": "dHhnvOtwrHA",
   "yt_label": "Primeiro as Damas | Trailer oficial | Netflix",
   "ig": "https://www.instagram.com/p/DYxCDThxA47/",
-  "origem": "instagram2"
+  "origem": "instagram2",
+  "gen": [
+   "Comédia",
+   "Fantasia"
+  ]
  },
  {
   "id": "DYnnIuZMpne",
@@ -5406,7 +6137,12 @@
   "yt": "1iV_mXSXS2k",
   "yt_label": "Operação Invasão - (THE RAID) 2012 Trailer",
   "ig": "https://www.instagram.com/p/DYnnIuZMpne/",
-  "origem": "instagram2"
+  "origem": "instagram2",
+  "gen": [
+   "Ação",
+   "Crime",
+   "Suspense"
+  ]
  },
  {
   "id": "DdHLnGzxMP3",
@@ -5440,7 +6176,13 @@
   "yt": "yRdJZD3kP5k",
   "yt_label": "O Jogo da Morte | Trailer Oficial | Prime Video",
   "ig": "https://www.instagram.com/p/DdHLnGzxMP3/",
-  "origem": "instagram2"
+  "origem": "instagram2",
+  "gen": [
+   "Drama",
+   "Fantasia",
+   "Terror",
+   "Ficção Científica"
+  ]
  },
  {
   "id": "DeYBrOwOvwg",
@@ -5461,7 +6203,12 @@
   "yt": "i0Appry436Q",
   "yt_label": "FROM BEIJING WITH LOVE (Eureka Classics) New & Exclusive Trailer",
   "ig": "https://www.instagram.com/p/DeYBrOwOvwg/",
-  "origem": "instagram2"
+  "origem": "instagram2",
+  "gen": [
+   "Ação",
+   "Comédia",
+   "Suspense"
+  ]
  },
  {
   "id": "DeFzMrmx5f1",
@@ -5482,7 +6229,10 @@
   "yt": "EcnAb--yEcg",
   "yt_label": "Key & Peele - The Telemarketer Official Trailer",
   "ig": "https://www.instagram.com/p/DeFzMrmx5f1/",
-  "origem": "instagram2"
+  "origem": "instagram2",
+  "gen": [
+   "Comédia"
+  ]
  },
  {
   "id": "DdKlaz8Slot",
@@ -5522,7 +6272,10 @@
   "yt": "PJ3UyXKnJDo",
   "yt_label": "The Head Hunter | Official Trailer (HD) | Vertical Entertainment",
   "ig": "https://www.instagram.com/p/DdKlaz8Slot/",
-  "origem": "instagram2"
+  "origem": "instagram2",
+  "gen": [
+   "Drama"
+  ]
  },
  {
   "id": "DdfKRqQxwG0",
@@ -5550,7 +6303,13 @@
   "yt": "reP8VFF3KHU",
   "yt_label": "American Horror Story \"Murder House\" - Official Trailer (HD)",
   "ig": "https://www.instagram.com/p/DdfKRqQxwG0/",
-  "origem": "instagram2"
+  "origem": "instagram2",
+  "gen": [
+   "Drama",
+   "Terror",
+   "Suspense",
+   "Ficção Científica"
+  ]
  },
  {
   "id": "DcltRMbCst2",
@@ -5578,7 +6337,13 @@
   "yt": "bY3Rh_9RzNc",
   "yt_label": "American Horror Stories (2021) Official Trailer",
   "ig": "https://www.instagram.com/p/DcltRMbCst2/",
-  "origem": "instagram2"
+  "origem": "instagram2",
+  "gen": [
+   "Drama",
+   "Terror",
+   "Suspense",
+   "Ficção Científica"
+  ]
  },
  {
   "id": "DdfzyiLyixJ",
@@ -5599,7 +6364,14 @@
   "yt": "CE0X7pnczxU",
   "yt_label": "Little Boy   Além do Impossível   Trailer Legendado",
   "ig": "https://www.instagram.com/p/DdfzyiLyixJ/",
-  "origem": "instagram2"
+  "origem": "instagram2",
+  "gen": [
+   "Animação",
+   "Comédia",
+   "Drama",
+   "História",
+   "Guerra"
+  ]
  },
  {
   "id": "DdZuCWwvj7B",
@@ -5633,7 +6405,10 @@
   "yt": "LnUNkApuiEo",
   "yt_label": "Monstro: A História de Lizzie Borden | Trailer oficial | Netflix",
   "ig": "https://www.instagram.com/p/DdZuCWwvj7B/",
-  "origem": "instagram2"
+  "origem": "instagram2",
+  "gen": [
+   "Drama"
+  ]
  },
  {
   "id": "Dca1xbRO4Wm",
@@ -5661,7 +6436,11 @@
   "yt": null,
   "yt_label": null,
   "ig": "https://www.instagram.com/p/Dca1xbRO4Wm/",
-  "origem": "instagram2"
+  "origem": "instagram2",
+  "gen": [
+   "Drama",
+   "Suspense"
+  ]
  },
  {
   "id": "DcWPO3Yx0-W",
@@ -5707,7 +6486,12 @@
   "yt": "vQeetXtgj3Q",
   "yt_label": "Shut In - Reféns do Medo (Trailer Legendado)",
   "ig": "https://www.instagram.com/p/DcWPO3Yx0-W/",
-  "origem": "instagram2"
+  "origem": "instagram2",
+  "gen": [
+   "Drama",
+   "Terror",
+   "Suspense"
+  ]
  },
  {
   "id": "Dc_luWrJI3w",
@@ -5728,7 +6512,12 @@
   "yt": "c5o74dSF8AM",
   "yt_label": "[Trailer] High School Return of a Gangster | Coming To Viu FREE Tonight!",
   "ig": "https://www.instagram.com/p/Dc_luWrJI3w/",
-  "origem": "instagram2"
+  "origem": "instagram2",
+  "gen": [
+   "Drama",
+   "Fantasia",
+   "Ficção Científica"
+  ]
  },
  {
   "id": "DV0xKjcDg98",
@@ -5774,7 +6563,11 @@
   "yt": "W1U8O4LrTfw",
   "yt_label": "VERMIN: A PRAGA - (Trailer legendado Portugal)",
   "ig": "https://www.instagram.com/p/DV0xKjcDg98/",
-  "origem": "instagram2"
+  "origem": "instagram2",
+  "gen": [
+   "Terror",
+   "Suspense"
+  ]
  },
  {
   "id": "Dcq8jgfO1l1",
@@ -5795,7 +6588,15 @@
   "yt": "j0dcDtXdZb8",
   "yt_label": "Transcendence - A Revolução - Trailer Legendado",
   "ig": "https://www.instagram.com/p/Dcq8jgfO1l1/",
-  "origem": "instagram2"
+  "origem": "instagram2",
+  "gen": [
+   "Ação",
+   "Drama",
+   "Suspense",
+   "Romance",
+   "Ficção Científica",
+   "Reality"
+  ]
  },
  {
   "id": "DbmA3U1DZ2B",
@@ -5853,7 +6654,14 @@
   "yt": "Mm6XpaKdsVY",
   "yt_label": "Ne Zha 2 - O Renascer da Alma | Trailer Oficial Legendado EXCLUSIVO",
   "ig": "https://www.instagram.com/p/DbmA3U1DZ2B/",
-  "origem": "instagram2"
+  "origem": "instagram2",
+  "gen": [
+   "Ação",
+   "Animação",
+   "Comédia",
+   "Drama",
+   "Fantasia"
+  ]
  },
  {
   "id": "Dc1VLb7iYGZ",
@@ -5887,7 +6695,12 @@
   "yt": "zAJLptLeaqI",
   "yt_label": "Kraken: O Terror das Profundezas | Trailer Oficial (2025) | Legendado",
   "ig": "https://www.instagram.com/p/Dc1VLb7iYGZ/",
-  "origem": "instagram2"
+  "origem": "instagram2",
+  "gen": [
+   "Ação",
+   "Drama",
+   "Ficção Científica"
+  ]
  },
  {
   "id": "DcyvdhtMxe1",
@@ -5921,7 +6734,12 @@
   "yt": "x2nlTAqk9IY",
   "yt_label": "CABO DO MEDO | Trailer (2026) Legendado",
   "ig": "https://www.instagram.com/p/DcyvdhtMxe1/",
-  "origem": "instagram2"
+  "origem": "instagram2",
+  "gen": [
+   "Crime",
+   "Drama",
+   "Suspense"
+  ]
  },
  {
   "id": "DckIhWugtX6",
@@ -5979,7 +6797,12 @@
   "yt": "owWJCy70iA8",
   "yt_label": "A Fera Interior (2024) | Trailer Legendado",
   "ig": "https://www.instagram.com/p/DckIhWugtX6/",
-  "origem": "instagram2"
+  "origem": "instagram2",
+  "gen": [
+   "Drama",
+   "Terror",
+   "Suspense"
+  ]
  },
  {
   "id": "DcjnytAx7iI",
@@ -6037,7 +6860,10 @@
   "yt": "OspY7fY5JZw",
   "yt_label": "2067   Trailer Legendado - Filme Ficção Cientifica",
   "ig": "https://www.instagram.com/p/DcjnytAx7iI/",
-  "origem": "instagram2"
+  "origem": "instagram2",
+  "gen": [
+   "Ficção Científica"
+  ]
  },
  {
   "id": "DbxkbYVs9J-",
@@ -6058,7 +6884,12 @@
   "yt": "dCyVdyg9aYk",
   "yt_label": "Debris | Trailer completo - Legendado -PT - BR",
   "ig": "https://www.instagram.com/p/DbxkbYVs9J-/",
-  "origem": "instagram2"
+  "origem": "instagram2",
+  "gen": [
+   "Drama",
+   "Suspense",
+   "Ficção Científica"
+  ]
  },
  {
   "id": "DbLiPz6RbQb",
@@ -6086,7 +6917,10 @@
   "yt": "W7rlZLw9m10",
   "yt_label": "The Dropout | Trailer | Hulu",
   "ig": "https://www.instagram.com/p/DbLiPz6RbQb/",
-  "origem": "instagram2"
+  "origem": "instagram2",
+  "gen": [
+   "Drama"
+  ]
  },
  {
   "id": "Dbwjak0BpAA",
@@ -6120,7 +6954,11 @@
   "yt": "YD_cx5Kkwr0",
   "yt_label": "Indesculpável | Sandra Bullock | Trailer oficial | Netflix",
   "ig": "https://www.instagram.com/p/Dbwjak0BpAA/",
-  "origem": "instagram2"
+  "origem": "instagram2",
+  "gen": [
+   "Crime",
+   "Drama"
+  ]
  },
  {
   "id": "DbnSA3tBbpW",
@@ -6178,7 +7016,11 @@
   "yt": "_K9CsYJKt0U",
   "yt_label": "'Wonder - Encantador' - Trailer (Legendado)",
   "ig": "https://www.instagram.com/p/DbnSA3tBbpW/",
-  "origem": "instagram2"
+  "origem": "instagram2",
+  "gen": [
+   "Drama",
+   "Família"
+  ]
  },
  {
   "id": "Dbid-xTxY4V",
@@ -6236,7 +7078,11 @@
   "yt": null,
   "yt_label": null,
   "ig": "https://www.instagram.com/p/Dbid-xTxY4V/",
-  "origem": "instagram2"
+  "origem": "instagram2",
+  "gen": [
+   "Drama",
+   "Família"
+  ]
  },
  {
   "id": "DagauiXhDKA",
@@ -6257,7 +7103,13 @@
   "yt": "UAFhay9fgqI",
   "yt_label": "Longo Caminho para Casa 2025 Trailer Legendado Long Way Home Apple TV+ Ewan McGregor",
   "ig": "https://www.instagram.com/p/DagauiXhDKA/",
-  "origem": "instagram2"
+  "origem": "instagram2",
+  "gen": [
+   "Ação",
+   "Drama",
+   "História",
+   "Guerra"
+  ]
  },
  {
   "id": "DaB9AYXtYfA",
@@ -6291,7 +7143,10 @@
   "yt": "AV29rEuiYdo",
   "yt_label": "Extracurricular | Official Trailer | Netflix",
   "ig": "https://www.instagram.com/p/DaB9AYXtYfA/",
-  "origem": "instagram2"
+  "origem": "instagram2",
+  "gen": [
+   "Drama"
+  ]
  },
  {
   "id": "DYpcXCOxlqE",
@@ -6325,7 +7180,11 @@
   "yt": "nMePxwGL0Fw",
   "yt_label": "Golias | Trailer Legendado",
   "ig": "https://www.instagram.com/p/DYpcXCOxlqE/",
-  "origem": "instagram2"
+  "origem": "instagram2",
+  "gen": [
+   "Crime",
+   "Drama"
+  ]
  },
  {
   "id": "DY-eugCx0Ns",
@@ -6371,7 +7230,10 @@
   "yt": "_raEUMLL-ZI",
   "yt_label": "Billions (2016) | Official Trailer | Paul Giamatti & Damian Lewis SHOWTIME Series",
   "ig": "https://www.instagram.com/p/DY-eugCx0Ns/",
-  "origem": "instagram2"
+  "origem": "instagram2",
+  "gen": [
+   "Drama"
+  ]
  },
  {
   "id": "DYipZxUtmlj",
@@ -6417,7 +7279,11 @@
   "yt": "R1I1jOD9Mo4",
   "yt_label": "O Som da Morte | Trailer Oficial Legendado",
   "ig": "https://www.instagram.com/p/DYipZxUtmlj/",
-  "origem": "instagram2"
+  "origem": "instagram2",
+  "gen": [
+   "Terror",
+   "Suspense"
+  ]
  },
  {
   "id": "DXkxgk4gDKS",
@@ -6463,7 +7329,13 @@
   "yt": "iAAUDfGSdqs",
   "yt_label": "WEREWOLVES Official Trailer (2024) Frank Grillo",
   "ig": "https://www.instagram.com/p/DXkxgk4gDKS/",
-  "origem": "instagram2"
+  "origem": "instagram2",
+  "gen": [
+   "Ação",
+   "Terror",
+   "Suspense",
+   "Ficção Científica"
+  ]
  },
  {
   "id": "DYdVsAiA6wu",
@@ -6521,7 +7393,11 @@
   "yt": "TYHpaqg3hYs",
   "yt_label": "Super Quem? (Super-Héros Malgré Lui, 2022) | Trailer Dublado HD",
   "ig": "https://www.instagram.com/p/DYdVsAiA6wu/",
-  "origem": "instagram2"
+  "origem": "instagram2",
+  "gen": [
+   "Ação",
+   "Comédia"
+  ]
  },
  {
   "id": "DYX9oW_pI9M",
@@ -6555,7 +7431,13 @@
   "yt": "PO_2u0zLwOk",
   "yt_label": "THE WONDERFOOLS - Trailer Legendado em Português",
   "ig": "https://www.instagram.com/p/DYX9oW_pI9M/",
-  "origem": "instagram2"
+  "origem": "instagram2",
+  "gen": [
+   "Ação",
+   "Comédia",
+   "Drama",
+   "Ficção Científica"
+  ]
  },
  {
   "id": "DVYhklcANQo",
@@ -6589,7 +7471,14 @@
   "yt": "7hAnpGkONKE",
   "yt_label": "Good Boy 2025 Trailer Legendado",
   "ig": "https://www.instagram.com/p/DVYhklcANQo/",
-  "origem": "instagram2"
+  "origem": "instagram2",
+  "gen": [
+   "Ação",
+   "Comédia",
+   "Crime",
+   "Drama",
+   "Romance"
+  ]
  },
  {
   "id": "DXaLUWajdk3",
@@ -6623,7 +7512,11 @@
   "yt": "I4yMEi1ndoc",
   "yt_label": "Os Não Eleitos | Trailer oficial | Netflix",
   "ig": "https://www.instagram.com/p/DXaLUWajdk3/",
-  "origem": "instagram2"
+  "origem": "instagram2",
+  "gen": [
+   "Drama",
+   "Suspense"
+  ]
  },
  {
   "id": "DYFhb5xsDpv",
@@ -6644,7 +7537,13 @@
   "yt": "I-G9WsuVv-A",
   "yt_label": "Ponte dos Espiões | Trailer Oficial Legendado | HD",
   "ig": "https://www.instagram.com/p/DYFhb5xsDpv/",
-  "origem": "instagram2"
+  "origem": "instagram2",
+  "gen": [
+   "Drama",
+   "História",
+   "Suspense",
+   "Guerra"
+  ]
  },
  {
   "id": "DYARm3jRIlI",
@@ -6665,7 +7564,11 @@
   "yt": "CWQyZSd-mC8",
   "yt_label": "A Odisseia | Trailer Oficial Legendado",
   "ig": "https://www.instagram.com/p/DYARm3jRIlI/",
-  "origem": "instagram2"
+  "origem": "instagram2",
+  "gen": [
+   "Ação",
+   "Fantasia"
+  ]
  },
  {
   "id": "DWReMM2Dub0",
@@ -6699,7 +7602,12 @@
   "yt": "fNHPBQ5181g",
   "yt_label": "The Furious - Trailer Legendado (2026) Xie Miao, Joe Taslim",
   "ig": "https://www.instagram.com/p/DWReMM2Dub0/",
-  "origem": "instagram2"
+  "origem": "instagram2",
+  "gen": [
+   "Ação",
+   "Drama",
+   "Esporte"
+  ]
  },
  {
   "id": "DXr9ni6Djuk",
@@ -6720,7 +7628,12 @@
   "yt": "FILI3VM706g",
   "yt_label": "Mister Foe (2007) Olhar do Desejo - Trailer",
   "ig": "https://www.instagram.com/p/DXr9ni6Djuk/",
-  "origem": "instagram2"
+  "origem": "instagram2",
+  "gen": [
+   "Drama",
+   "Suspense",
+   "Romance"
+  ]
  },
  {
   "id": "DXnAT06Akls",
@@ -6754,7 +7667,14 @@
   "yt": "myF-2r3h7HM",
   "yt_label": "Cães de Caça | Trailer oficial | Netflix",
   "ig": "https://www.instagram.com/p/DXnAT06Akls/",
-  "origem": "instagram2"
+  "origem": "instagram2",
+  "gen": [
+   "Ação",
+   "Crime",
+   "Drama",
+   "Suspense",
+   "Esporte"
+  ]
  },
  {
   "id": "Dee0ikvsnt0",
@@ -6806,7 +7726,12 @@
   "yt_label": "FEAR OF RAIN Official Trailer (2021) l Legendado PT PT",
   "ig": "https://www.instagram.com/reel/Dee0ikvsnt0/",
   "origem": "chat",
-  "nota": ""
+  "nota": "",
+  "gen": [
+   "Drama",
+   "Terror",
+   "Suspense"
+  ]
  },
  {
   "id": "DecArHWx7Io",
@@ -6840,7 +7765,12 @@
   "yt_label": "TRAILER DO FILME Passageiros (LEGENDADO)",
   "ig": "https://www.instagram.com/reel/DecArHWx7Io/",
   "origem": "chat",
-  "nota": ""
+  "nota": "",
+  "gen": [
+   "Drama",
+   "Suspense",
+   "Romance"
+  ]
  },
  {
   "id": "DefajJwK4ZJ",
@@ -6868,7 +7798,13 @@
   "yt_label": "VisionQuest | Trailer Oficial Dublado | Disney+",
   "ig": "https://www.instagram.com/reel/DefajJwK4ZJ/",
   "origem": "chat",
-  "nota": ""
+  "nota": "",
+  "gen": [
+   "Ação",
+   "Drama",
+   "Suspense",
+   "Ficção Científica"
+  ]
  },
  {
   "id": "DeevS4Wv_Lz",
@@ -6902,7 +7838,13 @@
   "yt_label": "Memory of a Killer | Season 1  | 2026 | Trailer Legendado | Patrick Dempsey",
   "ig": "https://www.instagram.com/reel/DeevS4Wv_Lz/",
   "origem": "chat",
-  "nota": "O reel chama de \"Black Box\", mas a trama e o elenco (Patrick Dempsey) correspondem a esta série."
+  "nota": "O reel chama de \"Black Box\", mas a trama e o elenco (Patrick Dempsey) correspondem a esta série.",
+  "gen": [
+   "Ação",
+   "Crime",
+   "Drama",
+   "Suspense"
+  ]
  },
  {
   "id": "Deer7OWOGwX",
@@ -6954,7 +7896,12 @@
   "yt_label": "Sede Sem Fim 2022 Trailer Legendado",
   "ig": "https://www.instagram.com/reel/Deer7OWOGwX/",
   "origem": "chat",
-  "nota": ""
+  "nota": "",
+  "gen": [
+   "Drama",
+   "Terror",
+   "Suspense"
+  ]
  },
  {
   "id": "DeedbHfTjQk",
@@ -6982,7 +7929,12 @@
   "yt_label": "\"McFarland, USA\" | Trailer (Legendas DAM/Portugal)",
   "ig": "https://www.instagram.com/reel/DeedbHfTjQk/",
   "origem": "chat",
-  "nota": ""
+  "nota": "",
+  "gen": [
+   "Drama",
+   "Família",
+   "Esporte"
+  ]
  },
  {
   "id": "DdSB29pMYjN",
@@ -7011,7 +7963,10 @@
   "yt": "odUiyPKVOOQ",
   "yt_label": "Curta completo no canal do autor",
   "ig": "https://www.instagram.com/reel/DdSB29pMYjN/",
-  "origem": "chat"
+  "origem": "chat",
+  "gen": [
+   "Terror"
+  ]
  },
  {
   "id": "DdkfYpXA7BU",
@@ -7045,7 +8000,12 @@
   "yt_label": "O GRIFO TEMPORADA 1 - SÉRIE 2023 - TRAILER DUBLADO E LEGENDADO AMAZON PRIME VÍDEO",
   "ig": "https://www.instagram.com/reel/DdkfYpXA7BU/",
   "origem": "chat",
-  "nota": "RT: Tomatometer sem nota (só 2 críticas); público (Popcornmeter) 89%."
+  "nota": "RT: Tomatometer sem nota (só 2 críticas); público (Popcornmeter) 89%.",
+  "gen": [
+   "Drama",
+   "Fantasia",
+   "Ficção Científica"
+  ]
  },
  {
   "id": "DeNJxQws_dV",
@@ -7091,7 +8051,12 @@
   "yt_label": "EXORCISMO SAGRADO | Trailer EXCLUSIVO Legendado",
   "ig": "https://www.instagram.com/reel/DeNJxQws_dV/",
   "origem": "chat",
-  "nota": ""
+  "nota": "",
+  "gen": [
+   "Drama",
+   "Terror",
+   "Suspense"
+  ]
  },
  {
   "id": "DedCcV6g2UX",
@@ -7120,7 +8085,11 @@
   "yt": "Xau2zR0vGk4",
   "yt_label": "Filme completo no canal do autor",
   "ig": "https://www.instagram.com/reel/DedCcV6g2UX/",
-  "origem": "chat"
+  "origem": "chat",
+  "gen": [
+   "Ficção Científica",
+   "Suspense"
+  ]
  },
  {
   "pt": "A Morte do Demônio: Em Chamas",
@@ -7166,7 +8135,10 @@
   "yt_label": "A Morte do Demônio: Em Chamas | Trailer Oficial Legendado",
   "ig": "https://www.instagram.com/reel/Deh2NCihF4z/",
   "origem": "chat",
-  "nota": ""
+  "nota": "",
+  "gen": [
+   "Terror"
+  ]
  },
  {
   "pt": "Buddy",
@@ -7188,7 +8160,13 @@
   "yt": "2sBRb7Mbg0A",
   "yt_label": "Buddy | Teaser oficial 2 (inglês)",
   "ig": "https://www.instagram.com/reel/Deh2NCihF4z/",
-  "origem": "chat"
+  "origem": "chat",
+  "gen": [
+   "Comédia",
+   "Fantasia",
+   "Terror",
+   "Suspense"
+  ]
  },
  {
   "pt": "Leviticus",
@@ -7209,7 +8187,13 @@
   "yt": "WXuK0vlFxII",
   "yt_label": "LEVITICUS - Trailer oficial (NEON, inglês)",
   "ig": "https://www.instagram.com/reel/Deh2NCihF4z/",
-  "origem": "chat"
+  "origem": "chat",
+  "gen": [
+   "Terror",
+   "Suspense",
+   "Romance",
+   "Ficção Científica"
+  ]
  },
  {
   "pt": "Mãe das Moscas",
@@ -7231,7 +8215,11 @@
   "yt": "j6ixijATlXE",
   "yt_label": "Mãe das Moscas | Trailer legendado",
   "ig": "https://www.instagram.com/reel/Deh2NCihF4z/",
-  "origem": "chat"
+  "origem": "chat",
+  "gen": [
+   "Terror",
+   "Suspense"
+  ]
  },
  {
   "pt": "Extermínio: O Templo dos Ossos",
@@ -7277,7 +8265,12 @@
   "yt_label": "Extermínio: O Templo dos Ossos | Trailer Oficial",
   "ig": "https://www.instagram.com/reel/Deh2NCihF4z/",
   "origem": "chat",
-  "nota": ""
+  "nota": "",
+  "gen": [
+   "Terror",
+   "Suspense",
+   "Ficção Científica"
+  ]
  },
  {
   "pt": "Hope",
@@ -7298,7 +8291,13 @@
   "yt": "R5jcEBVBEbQ",
   "yt_label": "HOPE - Trailer oficial (NEON, inglês)",
   "ig": "https://www.instagram.com/reel/Deh2NCihF4z/",
-  "origem": "chat"
+  "origem": "chat",
+  "gen": [
+   "Ação",
+   "Terror",
+   "Suspense",
+   "Ficção Científica"
+  ]
  },
  {
   "pt": "Backrooms",
@@ -7344,7 +8343,12 @@
   "yt_label": "Backrooms | Trailer Oficial Legendado",
   "ig": "https://www.instagram.com/reel/Deh2NCihF4z/",
   "origem": "chat",
-  "nota": ""
+  "nota": "",
+  "gen": [
+   "Terror",
+   "Suspense",
+   "Ficção Científica"
+  ]
  },
  {
   "pt": "Zona Zero",
@@ -7365,7 +8369,15 @@
   "yt": "Vv_GJtaYZdc",
   "yt_label": "Zona Zero | Trailer Oficial Legendado",
   "ig": "https://www.instagram.com/reel/Deh2NCihF4z/",
-  "origem": "chat"
+  "origem": "chat",
+  "gen": [
+   "Ação",
+   "Crime",
+   "Fantasia",
+   "Terror",
+   "Suspense",
+   "Ficção Científica"
+  ]
  },
  {
   "pt": "Obsessão",
@@ -7411,7 +8423,11 @@
   "yt_label": "OBSESSÃO | Trailer Oficial",
   "ig": "https://www.instagram.com/reel/Deh2NCihF4z/",
   "origem": "chat",
-  "nota": ""
+  "nota": "",
+  "gen": [
+   "Terror",
+   "Suspense"
+  ]
  },
  {
   "id": "DdlfICbzImW",
@@ -7433,6 +8449,11 @@
   "yt": "kxWTfju6q5U",
   "yt_label": "You Can't Leave | Trailer oficial (inglês)",
   "ig": "https://www.instagram.com/reel/DdlfICbzImW/",
-  "origem": "chat"
+  "origem": "chat",
+  "gen": [
+   "Ação",
+   "Terror",
+   "Suspense"
+  ]
  }
 ]
