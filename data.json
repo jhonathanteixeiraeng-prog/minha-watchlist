@@ -12947,5 +12947,74 @@
    "Mistério"
   ],
   "adicionado": "2026-11-12"
+ },
+ {
+  "id": "DfmyisjMC7a",
+  "pt": "Filhos do Privilégio",
+  "orig": "The Privilege (Das Privileg)",
+  "ano": 2022,
+  "tipo": "Filme",
+  "poster": "https://images.justwatch.com/poster/263238304/s718/das-privileg-die-auserwahlten.jpg",
+  "sin": "Depois da morte misteriosa da irmã, Finn, um adolescente de uma família rica, é atormentado por pesadelos e acontecimentos sobrenaturais. Com a ajuda dos amigos, ele investiga os segredos da família e acaba descobrindo uma conspiração sombria.",
+  "jw": "https://www.justwatch.com/br/filme/das-privileg-die-auserwahlten",
+  "jwl": null,
+  "of": [
+   [
+    "Netflix",
+    "Assinatura",
+    "áudio em português",
+    "https://www.netflix.com/br/title/81410539"
+   ]
+  ],
+  "nota": "Disponível na Netflix Brasil, com áudio em português (verificado em 12/11/2026). Terror alemão, 1h47min, classificação 16 anos. Notas: IMDb 4,7/10; Rotten Tomatoes 25% crítica (4 avaliações consultadas). Notas e disponibilidade podem mudar.",
+  "rt": 25,
+  "rt_aud": null,
+  "rt_url": "https://www.rottentomatoes.com/m/das_privileg",
+  "imdb": 4.7,
+  "imdb_url": "https://www.imdb.com/title/tt14637290/",
+  "yt": "TYaHVo4OWqQ",
+  "yt_label": "Trailer dublado em português do Brasil",
+  "ig": "https://www.instagram.com/reel/DfmyisjMC7a/",
+  "origem": "chat",
+  "gen": [
+   "Terror",
+   "Suspense",
+   "Mistério"
+  ],
+  "adicionado": "2026-11-12"
+ },
+ {
+  "id": "DfuWlq0Femm",
+  "pt": "Trinity",
+  "orig": "Trinity",
+  "ano": 2026,
+  "tipo": "Série",
+  "poster": "https://occ-0-873-2219.1.nflxso.net/dnm/api/v6/a3hnUaZnndQ4IeGOdnyRTW4nDRA/AAAABYmJ1TVzt5pjqDRWiSyEizZpnZQlPlxyiUr-6aJAcy2Cu33fwHDqKDFCVgdoKNJ9tbRtEKhN8c01BYe9KfzdOYZCAsbFicgFNVFS.jpg?r=848",
+  "sin": "A comandante Katherine Decker, oficial de um submarino nuclear norte-americano, se aproxima do secretário de Defesa Webb Preston e descobre indícios de uma conspiração perigosa ligada a um programa ultrassecreto. Série de suspense político criada por Jed Mercurio, com Gugu Mbatha-Raw e Richard Madden.",
+  "jw": null,
+  "jwl": null,
+  "of": [
+   [
+    "Netflix",
+    "Assinatura",
+    "Estreia em 01/12/2026",
+    "https://www.netflix.com/br/title/81696435"
+   ]
+  ],
+  "nota": "Ainda não estreou. Lançamento confirmado para 1º de dezembro de 2026 na Netflix, com 7 episódios. Ainda sem avaliações consolidadas do IMDb e Rotten Tomatoes.",
+  "rt": null,
+  "rt_aud": null,
+  "rt_url": "https://www.rottentomatoes.com/tv/trinity_2026",
+  "imdb": null,
+  "imdb_url": null,
+  "yt": null,
+  "yt_label": "Trailer oficial na Netflix",
+  "ig": "https://www.instagram.com/reel/DfuWlq0Femm/",
+  "origem": "chat",
+  "gen": [
+   "Drama",
+   "Suspense"
+  ],
+  "adicionado": "2026-11-15"
  }
 ]
