@@ -13671,5 +13671,97 @@
       "Fantasia"
     ],
     "adicionado": "2026-11-21"
+  },
+  {
+    "id": "DZnvowlSRsa",
+    "pt": "Jack: A Caixa Maldita",
+    "orig": "The Jack in the Box",
+    "ano": 2019,
+    "tipo": "Filme",
+    "poster": "https://image.tmdb.org/t/p/w500/gp5QyaU49utfWVVL698BzlN2vMh.jpg",
+    "sin": "Quando uma antiga caixa-surpresa em forma de palhaço é desenterrada e doada a um museu no interior da Inglaterra, o historiador Casey Reynolds logo percebe que o assustador brinquedo esconde uma entidade demoníaca que desperta para ceifar vidas humanas.",
+    "jw": "https://www.justwatch.com/br/filme/the-jack-in-the-box",
+    "jwl": null,
+    "of": [
+      [
+        "Mercado Play",
+        "Gratuito",
+        "",
+        "https://www.mercadolivre.com.br/play"
+      ],
+      [
+        "Prime Video",
+        "Assinatura",
+        "",
+        "https://www.primevideo.com/"
+      ],
+      [
+        "Apple TV Store",
+        "Aluguel",
+        "",
+        "https://tv.apple.com/br"
+      ]
+    ],
+    "nota": "Disponível gratuitamente com anúncios no Mercado Play e no catálogo do Prime Video. Também disponível para aluguel digital na Apple TV. Disponibilidade conferida em 22/11/2026.",
+    "rt": null,
+    "rt_aud": 38,
+    "rt_url": "https://www.rottentomatoes.com/m/the_jack_in_the_box",
+    "imdb": 4.3,
+    "imdb_url": "https://www.imdb.com/title/tt10645682/",
+    "yt": "F2LVQ0tRWY8",
+    "yt_label": "The Jack in the Box | Trailer oficial (inglês)",
+    "ig": "https://www.instagram.com/reel/DZnvowlSRsa/",
+    "origem": "chat",
+    "gen": [
+      "Terror",
+      "Suspense"
+    ],
+    "adicionado": "2026-11-22"
+  },
+  {
+    "id": "Dfk0pyMowFL",
+    "pt": "Jack: A Caixa Maldita 2 - O Despertar",
+    "orig": "The Jack in the Box: Awakening",
+    "ano": 2022,
+    "tipo": "Filme",
+    "poster": "https://image.tmdb.org/t/p/w500/3Ib8vlWTrAKRrTWUrTrZPOMW4jp.jpg",
+    "sin": "Uma mulher rica em estágio terminal adquire a caixa macabra e descobre que o demônio interior pode curar sua doença mortal, desde que ela e seu filho entreguem seis vítimas inocentes para serem devoradas pela criatura.",
+    "jw": "https://www.justwatch.com/br/filme/the-jack-in-the-box-awakening",
+    "jwl": null,
+    "of": [
+      [
+        "Prime Video",
+        "Assinatura",
+        "",
+        "https://www.primevideo.com/"
+      ],
+      [
+        "Claro tv+",
+        "Aluguel",
+        "",
+        "https://www.clarotvmais.com.br/"
+      ],
+      [
+        "Apple TV Store",
+        "Aluguel",
+        "",
+        "https://tv.apple.com/br"
+      ]
+    ],
+    "nota": "Disponível no catálogo do Prime Video (canais parceiros) e para aluguel digital na Apple TV e Claro tv+. Disponibilidade conferida em 22/11/2026.",
+    "rt": null,
+    "rt_aud": 14,
+    "rt_url": "https://www.rottentomatoes.com/m/the_jack_in_the_box_awakening",
+    "imdb": 4.5,
+    "imdb_url": "https://www.imdb.com/title/tt14571994/",
+    "yt": "RH2yQfR3LUk",
+    "yt_label": "The Jack in the Box: Awakening | Trailer oficial (inglês)",
+    "ig": "https://www.instagram.com/reel/Dfk0pyMowFL/",
+    "origem": "chat",
+    "gen": [
+      "Terror",
+      "Suspense"
+    ],
+    "adicionado": "2026-11-22"
   }
 ]
