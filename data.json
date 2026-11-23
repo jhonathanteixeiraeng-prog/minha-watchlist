@@ -13591,7 +13591,7 @@
     "rt": 36,
     "rt_aud": 58,
     "rt_url": "https://www.rottentomatoes.com/m/ali_g_who_iz_i",
-    "imdb": 5.0,
+    "imdb": 5,
     "imdb_url": "https://www.imdb.com/title/tt43655467/",
     "yt": "6t7C4qaHihE",
     "yt_label": "Ali G: Who Iz I? | Trailer oficial da Amazon MGM Studios (inglês)",
@@ -13791,5 +13791,33 @@
       "Suspense"
     ],
     "adicionado": "2026-11-22"
+  },
+  {
+    "id": "eden-lake-2008",
+    "pt": "Sem Saída",
+    "orig": "Eden Lake",
+    "ano": 2008,
+    "tipo": "Filme",
+    "poster": "https://image.tmdb.org/t/p/w500/2CQ7z7XrMZubzQW9QZsQd2jRXXK.jpg",
+    "sin": "Durante uma viagem romântica a um lago isolado, Jenny e Steve entram em conflito com um grupo de adolescentes violentos. O passeio se transforma em uma luta desesperada pela sobrevivência.",
+    "jw": "https://br.justwatch.com/br/filme/sem-saida-2008",
+    "jwl": null,
+    "of": [],
+    "nota": "Não disponível nos serviços de streaming do Brasil conforme consulta ao JustWatch em 23/11/2026. Status: Quero ver.",
+    "rt": 76,
+    "rt_aud": 65,
+    "rt_url": "https://www.rottentomatoes.com/m/eden_lake",
+    "imdb": 6.7,
+    "imdb_url": "https://www.imdb.com/title/tt1020530/",
+    "yt": null,
+    "yt_label": null,
+    "ig": "https://www.instagram.com/reel/DfKTP4gv4eb/",
+    "origem": "instagram",
+    "gen": [
+      "Terror",
+      "Suspense",
+      "Terror Psicológico"
+    ],
+    "adicionado": "2026-11-23"
   }
 ]
