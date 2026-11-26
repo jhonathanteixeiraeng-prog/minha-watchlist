@@ -50,7 +50,8 @@
       "Drama",
       "Fantasia"
     ],
-    "adicionado": "2026-10-14"
+    "adicionado": "2026-10-14",
+    "colecao": "painel"
   },
   {
     "id": "blacktorch",
@@ -92,7 +93,8 @@
       "Suspense",
       "Ficção Científica"
     ],
-    "adicionado": "2026-10-14"
+    "adicionado": "2026-10-14",
+    "colecao": "painel"
   },
   {
     "id": "segredo",
@@ -150,7 +152,8 @@
       "Drama",
       "Romance"
     ],
-    "adicionado": "2026-10-14"
+    "adicionado": "2026-10-14",
+    "colecao": "painel"
   },
   {
     "id": "ember",
@@ -205,7 +208,8 @@
       "Suspense",
       "Ficção Científica"
     ],
-    "adicionado": "2026-10-14"
+    "adicionado": "2026-10-14",
+    "colecao": "painel"
   },
   {
     "id": "echotorch",
@@ -245,7 +249,8 @@
       "Terror",
       "Ficção Científica"
     ],
-    "adicionado": "2026-10-14"
+    "adicionado": "2026-10-14",
+    "colecao": "painel"
   },
   {
     "id": "guerreiro",
@@ -286,7 +291,8 @@
       "Drama",
       "Esporte"
     ],
-    "adicionado": "2026-10-14"
+    "adicionado": "2026-10-14",
+    "colecao": "painel"
   },
   {
     "id": "f2",
@@ -345,7 +351,8 @@
       "Terror",
       "Ficção Científica"
     ],
-    "adicionado": "2026-10-14"
+    "adicionado": "2026-10-14",
+    "colecao": "ig_filmes"
   },
   {
     "id": "f3",
@@ -408,7 +415,8 @@
       "Terror",
       "Suspense"
     ],
-    "adicionado": "2026-10-14"
+    "adicionado": "2026-10-14",
+    "colecao": "ig_filmes"
   },
   {
     "id": "f4",
@@ -448,7 +456,8 @@
       "Terror",
       "Suspense"
     ],
-    "adicionado": "2026-10-14"
+    "adicionado": "2026-10-14",
+    "colecao": "ig_filmes"
   },
   {
     "id": "f5",
@@ -496,7 +505,8 @@
       "Suspense",
       "Romance"
     ],
-    "adicionado": "2026-10-14"
+    "adicionado": "2026-10-14",
+    "colecao": "ig_filmes"
   },
   {
     "id": "f13",
@@ -560,7 +570,8 @@
       "Drama",
       "Música"
     ],
-    "adicionado": "2026-10-14"
+    "adicionado": "2026-10-14",
+    "colecao": "ig_filmes"
   },
   {
     "id": "f14",
@@ -625,7 +636,8 @@
       "Crime",
       "Suspense"
     ],
-    "adicionado": "2026-10-14"
+    "adicionado": "2026-10-14",
+    "colecao": "ig_filmes"
   },
   {
     "id": "f15",
@@ -659,7 +671,8 @@
       "Crime",
       "Drama"
     ],
-    "adicionado": "2026-10-14"
+    "adicionado": "2026-10-14",
+    "colecao": "ig_filmes"
   },
   {
     "id": "f16",
@@ -723,7 +736,8 @@
       "Drama",
       "Suspense"
     ],
-    "adicionado": "2026-10-14"
+    "adicionado": "2026-10-14",
+    "colecao": "ig_filmes"
   },
   {
     "id": "f18",
@@ -780,7 +794,8 @@
       "Crime",
       "Drama"
     ],
-    "adicionado": "2026-10-14"
+    "adicionado": "2026-10-14",
+    "colecao": "ig_filmes"
   },
   {
     "id": "f21",
@@ -820,7 +835,8 @@
       "Drama",
       "Suspense"
     ],
-    "adicionado": "2026-10-14"
+    "adicionado": "2026-10-14",
+    "colecao": "ig_filmes"
   },
   {
     "id": "f23",
@@ -854,7 +870,8 @@
       "Drama",
       "Suspense"
     ],
-    "adicionado": "2026-10-14"
+    "adicionado": "2026-10-14",
+    "colecao": "ig_filmes"
   },
   {
     "id": "f24",
@@ -893,7 +910,8 @@
       "Terror",
       "Suspense"
     ],
-    "adicionado": "2026-10-14"
+    "adicionado": "2026-10-14",
+    "colecao": "ig_filmes"
   },
   {
     "id": "f25",
@@ -934,7 +952,8 @@
       "Terror",
       "Suspense"
     ],
-    "adicionado": "2026-10-14"
+    "adicionado": "2026-10-14",
+    "colecao": "ig_filmes"
   },
   {
     "id": "f27",
@@ -975,7 +994,8 @@
       "Drama",
       "Suspense"
     ],
-    "adicionado": "2026-10-14"
+    "adicionado": "2026-10-14",
+    "colecao": "ig_filmes"
   },
   {
     "id": "f28",
@@ -1015,7 +1035,8 @@
       "Fantasia",
       "Ficção Científica"
     ],
-    "adicionado": "2026-10-14"
+    "adicionado": "2026-10-14",
+    "colecao": "ig_filmes"
   },
   {
     "id": "f29",
@@ -1050,7 +1071,8 @@
       "Fantasia",
       "Ficção Científica"
     ],
-    "adicionado": "2026-10-14"
+    "adicionado": "2026-10-14",
+    "colecao": "ig_filmes"
   },
   {
     "id": "f30",
@@ -1107,7 +1129,8 @@
       "Terror",
       "Suspense"
     ],
-    "adicionado": "2026-10-14"
+    "adicionado": "2026-10-14",
+    "colecao": "ig_filmes"
   },
   {
     "id": "f32",
@@ -1152,7 +1175,8 @@
       "Terror",
       "Suspense"
     ],
-    "adicionado": "2026-10-14"
+    "adicionado": "2026-10-14",
+    "colecao": "ig_filmes"
   },
   {
     "id": "f33",
@@ -1184,7 +1208,8 @@
     "gen": [
       "Drama"
     ],
-    "adicionado": "2026-10-14"
+    "adicionado": "2026-10-14",
+    "colecao": "ig_filmes"
   },
   {
     "id": "f35",
@@ -1246,7 +1271,8 @@
     "gen": [
       "Terror"
     ],
-    "adicionado": "2026-10-14"
+    "adicionado": "2026-10-14",
+    "colecao": "ig_filmes"
   },
   {
     "id": "f38",
@@ -1294,7 +1320,8 @@
       "Suspense",
       "Ficção Científica"
     ],
-    "adicionado": "2026-10-14"
+    "adicionado": "2026-10-14",
+    "colecao": "ig_filmes"
   },
   {
     "id": "f39",
@@ -1345,7 +1372,8 @@
       "Drama",
       "Romance"
     ],
-    "adicionado": "2026-10-14"
+    "adicionado": "2026-10-14",
+    "colecao": "ig_filmes"
   },
   {
     "id": "f40",
@@ -1372,7 +1400,8 @@
       "Drama",
       "Ficção Científica"
     ],
-    "adicionado": "2026-10-14"
+    "adicionado": "2026-10-14",
+    "colecao": "ig_filmes"
   },
   {
     "id": "f41",
@@ -1397,7 +1426,8 @@
     "gen": [
       "Comédia"
     ],
-    "adicionado": "2026-10-14"
+    "adicionado": "2026-10-14",
+    "colecao": "ig_filmes"
   },
   {
     "id": "f42",
@@ -1426,7 +1456,8 @@
       "Suspense",
       "Ficção Científica"
     ],
-    "adicionado": "2026-10-14"
+    "adicionado": "2026-10-14",
+    "colecao": "ig_filmes"
   },
   {
     "id": "f44",
@@ -1461,7 +1492,8 @@
       "Terror",
       "Suspense"
     ],
-    "adicionado": "2026-10-14"
+    "adicionado": "2026-10-14",
+    "colecao": "ig_filmes"
   },
   {
     "id": "f51",
@@ -1487,7 +1519,8 @@
       "Drama",
       "Romance"
     ],
-    "adicionado": "2026-10-14"
+    "adicionado": "2026-10-14",
+    "colecao": "ig_filmes"
   },
   {
     "id": "f54",
@@ -1528,7 +1561,8 @@
       "Romance",
       "Guerra"
     ],
-    "adicionado": "2026-10-14"
+    "adicionado": "2026-10-14",
+    "colecao": "ig_filmes"
   },
   {
     "id": "f55",
@@ -1579,7 +1613,8 @@
       "Terror",
       "Suspense"
     ],
-    "adicionado": "2026-10-14"
+    "adicionado": "2026-10-14",
+    "colecao": "ig_filmes"
   },
   {
     "id": "f56",
@@ -1615,7 +1650,8 @@
       "Suspense",
       "Ficção Científica"
     ],
-    "adicionado": "2026-10-14"
+    "adicionado": "2026-10-14",
+    "colecao": "ig_filmes"
   },
   {
     "id": "f59",
@@ -1651,7 +1687,8 @@
       "Suspense",
       "Ficção Científica"
     ],
-    "adicionado": "2026-10-14"
+    "adicionado": "2026-10-14",
+    "colecao": "ig_filmes"
   },
   {
     "id": "f60",
@@ -1717,7 +1754,8 @@
       "Drama",
       "História"
     ],
-    "adicionado": "2026-10-14"
+    "adicionado": "2026-10-14",
+    "colecao": "ig_filmes"
   },
   {
     "id": "f61",
@@ -1751,7 +1789,8 @@
       "Romance",
       "Ficção Científica"
     ],
-    "adicionado": "2026-10-14"
+    "adicionado": "2026-10-14",
+    "colecao": "ig_filmes"
   },
   {
     "id": "f63",
@@ -1778,7 +1817,8 @@
       "Drama",
       "Ficção Científica"
     ],
-    "adicionado": "2026-10-14"
+    "adicionado": "2026-10-14",
+    "colecao": "ig_filmes"
   },
   {
     "id": "f64",
@@ -1845,7 +1885,8 @@
       "Suspense",
       "Faroeste"
     ],
-    "adicionado": "2026-10-14"
+    "adicionado": "2026-10-14",
+    "colecao": "ig_filmes"
   },
   {
     "id": "f66",
@@ -1872,7 +1913,8 @@
       "Terror",
       "Suspense"
     ],
-    "adicionado": "2026-10-14"
+    "adicionado": "2026-10-14",
+    "colecao": "ig_filmes"
   },
   {
     "id": "f68",
@@ -1914,7 +1956,8 @@
       "Crime",
       "Família"
     ],
-    "adicionado": "2026-10-14"
+    "adicionado": "2026-10-14",
+    "colecao": "ig_filmes"
   },
   {
     "id": "f70",
@@ -1955,7 +1998,8 @@
       "Drama",
       "Suspense"
     ],
-    "adicionado": "2026-10-14"
+    "adicionado": "2026-10-14",
+    "colecao": "ig_filmes"
   },
   {
     "id": "f71",
@@ -2020,7 +2064,8 @@
       "Ficção Científica",
       "Guerra"
     ],
-    "adicionado": "2026-10-14"
+    "adicionado": "2026-10-14",
+    "colecao": "ig_filmes"
   },
   {
     "id": "f72",
@@ -2048,7 +2093,8 @@
       "Drama",
       "Família"
     ],
-    "adicionado": "2026-10-14"
+    "adicionado": "2026-10-14",
+    "colecao": "ig_filmes"
   },
   {
     "id": "f73",
@@ -2088,7 +2134,8 @@
       "Crime",
       "Suspense"
     ],
-    "adicionado": "2026-10-14"
+    "adicionado": "2026-10-14",
+    "colecao": "ig_filmes"
   },
   {
     "id": "f77",
@@ -2123,7 +2170,8 @@
       "Drama",
       "Suspense"
     ],
-    "adicionado": "2026-10-14"
+    "adicionado": "2026-10-14",
+    "colecao": "ig_filmes"
   },
   {
     "id": "f80",
@@ -2157,7 +2205,8 @@
       "Terror",
       "Suspense"
     ],
-    "adicionado": "2026-10-14"
+    "adicionado": "2026-10-14",
+    "colecao": "ig_filmes"
   },
   {
     "id": "f82",
@@ -2220,7 +2269,8 @@
       "Fantasia",
       "Terror"
     ],
-    "adicionado": "2026-10-14"
+    "adicionado": "2026-10-14",
+    "colecao": "ig_filmes"
   },
   {
     "id": "f83",
@@ -2272,7 +2322,8 @@
       "Terror",
       "Suspense"
     ],
-    "adicionado": "2026-10-14"
+    "adicionado": "2026-10-14",
+    "colecao": "ig_filmes"
   },
   {
     "id": "f84",
@@ -2326,7 +2377,8 @@
       "Suspense",
       "Ficção Científica"
     ],
-    "adicionado": "2026-10-14"
+    "adicionado": "2026-10-14",
+    "colecao": "ig_filmes"
   },
   {
     "id": "f85",
@@ -2368,7 +2420,8 @@
       "Suspense",
       "Ficção Científica"
     ],
-    "adicionado": "2026-10-14"
+    "adicionado": "2026-10-14",
+    "colecao": "ig_filmes"
   },
   {
     "id": "f87",
@@ -2408,7 +2461,8 @@
       "Suspense",
       "Ficção Científica"
     ],
-    "adicionado": "2026-10-14"
+    "adicionado": "2026-10-14",
+    "colecao": "ig_filmes"
   },
   {
     "id": "f88",
@@ -2448,7 +2502,8 @@
       "Terror",
       "Suspense"
     ],
-    "adicionado": "2026-10-14"
+    "adicionado": "2026-10-14",
+    "colecao": "ig_filmes"
   },
   {
     "id": "f90",
@@ -2481,7 +2536,8 @@
       "Comédia",
       "Drama"
     ],
-    "adicionado": "2026-10-14"
+    "adicionado": "2026-10-14",
+    "colecao": "ig_filmes"
   },
   {
     "id": "f91",
@@ -2521,7 +2577,8 @@
       "História",
       "Guerra"
     ],
-    "adicionado": "2026-10-14"
+    "adicionado": "2026-10-14",
+    "colecao": "ig_filmes"
   },
   {
     "id": "f92",
@@ -2560,7 +2617,8 @@
       "Ação",
       "Ficção Científica"
     ],
-    "adicionado": "2026-10-14"
+    "adicionado": "2026-10-14",
+    "colecao": "ig_filmes"
   },
   {
     "id": "f99",
@@ -2624,7 +2682,8 @@
       "Terror",
       "Suspense"
     ],
-    "adicionado": "2026-10-14"
+    "adicionado": "2026-10-14",
+    "colecao": "ig_filmes"
   },
   {
     "id": "f100",
@@ -2651,7 +2710,8 @@
       "Terror",
       "Suspense"
     ],
-    "adicionado": "2026-10-14"
+    "adicionado": "2026-10-14",
+    "colecao": "ig_filmes"
   },
   {
     "id": "f103",
@@ -2690,7 +2750,8 @@
       "Suspense",
       "Faroeste"
     ],
-    "adicionado": "2026-10-14"
+    "adicionado": "2026-10-14",
+    "colecao": "ig_filmes"
   },
   {
     "id": "f104",
@@ -2723,7 +2784,8 @@
       "Romance",
       "Ficção Científica"
     ],
-    "adicionado": "2026-10-14"
+    "adicionado": "2026-10-14",
+    "colecao": "ig_filmes"
   },
   {
     "id": "f105",
@@ -2749,7 +2811,8 @@
       "Suspense",
       "Ficção Científica"
     ],
-    "adicionado": "2026-10-14"
+    "adicionado": "2026-10-14",
+    "colecao": "ig_filmes"
   },
   {
     "id": "f106",
@@ -2812,7 +2875,8 @@
       "Terror",
       "Suspense"
     ],
-    "adicionado": "2026-10-14"
+    "adicionado": "2026-10-14",
+    "colecao": "ig_filmes"
   },
   {
     "id": "f107",
@@ -2864,7 +2928,8 @@
       "Terror",
       "Ficção Científica"
     ],
-    "adicionado": "2026-10-14"
+    "adicionado": "2026-10-14",
+    "colecao": "ig_filmes"
   },
   {
     "id": "f109",
@@ -2906,7 +2971,8 @@
       "Suspense",
       "Romance"
     ],
-    "adicionado": "2026-10-14"
+    "adicionado": "2026-10-14",
+    "colecao": "ig_filmes"
   },
   {
     "id": "f111",
@@ -2952,7 +3018,8 @@
       "Terror",
       "Suspense"
     ],
-    "adicionado": "2026-10-14"
+    "adicionado": "2026-10-14",
+    "colecao": "ig_filmes"
   },
   {
     "id": "f112",
@@ -2993,7 +3060,8 @@
       "Suspense",
       "Ficção Científica"
     ],
-    "adicionado": "2026-10-14"
+    "adicionado": "2026-10-14",
+    "colecao": "ig_filmes"
   },
   {
     "id": "f113",
@@ -3035,7 +3103,8 @@
       "Romance",
       "Ficção Científica"
     ],
-    "adicionado": "2026-10-14"
+    "adicionado": "2026-10-14",
+    "colecao": "ig_filmes"
   },
   {
     "id": "f114",
@@ -3074,7 +3143,8 @@
       "Ação",
       "Comédia"
     ],
-    "adicionado": "2026-10-14"
+    "adicionado": "2026-10-14",
+    "colecao": "ig_filmes"
   },
   {
     "id": "f115",
@@ -3102,7 +3172,8 @@
       "Terror",
       "Suspense"
     ],
-    "adicionado": "2026-10-14"
+    "adicionado": "2026-10-14",
+    "colecao": "ig_filmes"
   },
   {
     "id": "f117",
@@ -3166,7 +3237,8 @@
       "Terror",
       "Suspense"
     ],
-    "adicionado": "2026-10-14"
+    "adicionado": "2026-10-14",
+    "colecao": "ig_filmes"
   },
   {
     "id": "f120",
@@ -3218,7 +3290,8 @@
       "Terror",
       "Ficção Científica"
     ],
-    "adicionado": "2026-10-14"
+    "adicionado": "2026-10-14",
+    "colecao": "ig_filmes"
   },
   {
     "id": "f121",
@@ -3259,7 +3332,8 @@
       "Fantasia",
       "Ficção Científica"
     ],
-    "adicionado": "2026-10-14"
+    "adicionado": "2026-10-14",
+    "colecao": "ig_filmes"
   },
   {
     "id": "f122",
@@ -3297,7 +3371,8 @@
     "gen": [
       "Drama"
     ],
-    "adicionado": "2026-10-14"
+    "adicionado": "2026-10-14",
+    "colecao": "ig_filmes"
   },
   {
     "id": "f124",
@@ -3361,7 +3436,8 @@
       "Drama",
       "Suspense"
     ],
-    "adicionado": "2026-10-14"
+    "adicionado": "2026-10-14",
+    "colecao": "ig_filmes"
   },
   {
     "id": "f126",
@@ -3407,7 +3483,8 @@
       "Terror",
       "Suspense"
     ],
-    "adicionado": "2026-10-14"
+    "adicionado": "2026-10-14",
+    "colecao": "ig_filmes"
   },
   {
     "id": "f127",
@@ -3440,7 +3517,8 @@
       "Drama",
       "Suspense"
     ],
-    "adicionado": "2026-10-14"
+    "adicionado": "2026-10-14",
+    "colecao": "ig_filmes"
   },
   {
     "id": "f128",
@@ -3504,7 +3582,8 @@
       "Suspense",
       "Guerra"
     ],
-    "adicionado": "2026-10-14"
+    "adicionado": "2026-10-14",
+    "colecao": "ig_filmes"
   },
   {
     "id": "a1",
@@ -3550,7 +3629,8 @@
       "Animação",
       "Ficção Científica"
     ],
-    "adicionado": "2026-10-14"
+    "adicionado": "2026-10-14",
+    "colecao": "ig_anime"
   },
   {
     "id": "a2",
@@ -3593,7 +3673,8 @@
       "Romance",
       "Ficção Científica"
     ],
-    "adicionado": "2026-10-14"
+    "adicionado": "2026-10-14",
+    "colecao": "ig_anime"
   },
   {
     "id": "a3",
@@ -3635,7 +3716,8 @@
       "Fantasia",
       "Ficção Científica"
     ],
-    "adicionado": "2026-10-14"
+    "adicionado": "2026-10-14",
+    "colecao": "ig_anime"
   },
   {
     "id": "a4",
@@ -3675,7 +3757,8 @@
       "Animação",
       "Ficção Científica"
     ],
-    "adicionado": "2026-10-14"
+    "adicionado": "2026-10-14",
+    "colecao": "ig_anime"
   },
   {
     "id": "a6",
@@ -3716,7 +3799,8 @@
       "Fantasia",
       "Ficção Científica"
     ],
-    "adicionado": "2026-10-14"
+    "adicionado": "2026-10-14",
+    "colecao": "ig_anime"
   },
   {
     "id": "a7",
@@ -3757,7 +3841,8 @@
       "Fantasia",
       "Ficção Científica"
     ],
-    "adicionado": "2026-10-14"
+    "adicionado": "2026-10-14",
+    "colecao": "ig_anime"
   },
   {
     "id": "a8",
@@ -3798,7 +3883,8 @@
       "Fantasia",
       "Ficção Científica"
     ],
-    "adicionado": "2026-10-14"
+    "adicionado": "2026-10-14",
+    "colecao": "ig_anime"
   },
   {
     "id": "f19",
@@ -3825,7 +3911,8 @@
       "Drama",
       "Suspense"
     ],
-    "adicionado": "2026-10-14"
+    "adicionado": "2026-10-14",
+    "colecao": "ig_filmes"
   },
   {
     "id": "f26",
@@ -3852,7 +3939,8 @@
       "Drama",
       "Terror"
     ],
-    "adicionado": "2026-10-14"
+    "adicionado": "2026-10-14",
+    "colecao": "ig_filmes"
   },
   {
     "id": "f31",
@@ -3879,7 +3967,8 @@
       "Suspense",
       "Ficção Científica"
     ],
-    "adicionado": "2026-10-14"
+    "adicionado": "2026-10-14",
+    "colecao": "ig_filmes"
   },
   {
     "id": "f49",
@@ -3905,7 +3994,8 @@
       "Terror",
       "Suspense"
     ],
-    "adicionado": "2026-10-14"
+    "adicionado": "2026-10-14",
+    "colecao": "ig_filmes"
   },
   {
     "id": "Dbrfij3OaMT",
@@ -3945,7 +4035,8 @@
       "Terror",
       "Suspense"
     ],
-    "adicionado": "2026-10-15"
+    "adicionado": "2026-10-15",
+    "colecao": "ig_filmes"
   },
   {
     "id": "Dbl9bRtBcKC",
@@ -3972,7 +4063,8 @@
       "Terror",
       "Suspense"
     ],
-    "adicionado": "2026-10-15"
+    "adicionado": "2026-10-15",
+    "colecao": "ig_filmes"
   },
   {
     "id": "DZnQtbwNugi",
@@ -4024,7 +4116,8 @@
       "Comédia",
       "Ficção Científica"
     ],
-    "adicionado": "2026-10-15"
+    "adicionado": "2026-10-15",
+    "colecao": "ig_filmes"
   },
   {
     "id": "DbitvzfAjSY",
@@ -4064,7 +4157,8 @@
       "Terror",
       "Suspense"
     ],
-    "adicionado": "2026-10-15"
+    "adicionado": "2026-10-15",
+    "colecao": "ig_filmes"
   },
   {
     "id": "DZ0qrrevyU4",
@@ -4122,7 +4216,8 @@
       "Drama",
       "Romance"
     ],
-    "adicionado": "2026-10-15"
+    "adicionado": "2026-10-15",
+    "colecao": "ig_filmes"
   },
   {
     "id": "DbdjZsCxfTd",
@@ -4174,7 +4269,8 @@
       "Suspense",
       "Ficção Científica"
     ],
-    "adicionado": "2026-10-15"
+    "adicionado": "2026-10-15",
+    "colecao": "ig_filmes"
   },
   {
     "id": "DbgcFRcxncJ",
@@ -4226,7 +4322,8 @@
       "Terror",
       "Suspense"
     ],
-    "adicionado": "2026-10-15"
+    "adicionado": "2026-10-15",
+    "colecao": "ig_filmes"
   },
   {
     "id": "DbEroAmuNKb",
@@ -4283,7 +4380,8 @@
       "Drama",
       "Ficção Científica"
     ],
-    "adicionado": "2026-10-15"
+    "adicionado": "2026-10-15",
+    "colecao": "ig_filmes"
   },
   {
     "id": "DbWDW8eu_9K",
@@ -4321,7 +4419,8 @@
     "gen": [
       "Terror"
     ],
-    "adicionado": "2026-10-15"
+    "adicionado": "2026-10-15",
+    "colecao": "ig_filmes"
   },
   {
     "id": "DbQ2-f1gJ9r",
@@ -4362,7 +4461,8 @@
       "Terror",
       "Suspense"
     ],
-    "adicionado": "2026-10-15"
+    "adicionado": "2026-10-15",
+    "colecao": "ig_filmes"
   },
   {
     "id": "DatyoZqADxm",
@@ -4402,7 +4502,8 @@
       "Fantasia",
       "Romance"
     ],
-    "adicionado": "2026-10-15"
+    "adicionado": "2026-10-15",
+    "colecao": "ig_filmes"
   },
   {
     "id": "Da7zO3OgKdw",
@@ -4460,7 +4561,8 @@
       "Fantasia",
       "Suspense"
     ],
-    "adicionado": "2026-10-15"
+    "adicionado": "2026-10-15",
+    "colecao": "ig_filmes"
   },
   {
     "id": "DasqStNJpwO",
@@ -4513,7 +4615,8 @@
       "Drama",
       "Suspense"
     ],
-    "adicionado": "2026-10-15"
+    "adicionado": "2026-10-15",
+    "colecao": "ig_filmes"
   },
   {
     "id": "DbCSAzYxEBx",
@@ -4570,7 +4673,8 @@
       "Ação",
       "Suspense"
     ],
-    "adicionado": "2026-10-15"
+    "adicionado": "2026-10-15",
+    "colecao": "ig_filmes"
   },
   {
     "id": "DasfZxKs2Kk",
@@ -4609,7 +4713,8 @@
       "Drama",
       "Suspense"
     ],
-    "adicionado": "2026-10-15"
+    "adicionado": "2026-10-15",
+    "colecao": "ig_filmes"
   },
   {
     "id": "DX9f4iKMyyP",
@@ -4650,7 +4755,8 @@
       "Terror",
       "Suspense"
     ],
-    "adicionado": "2026-10-15"
+    "adicionado": "2026-10-15",
+    "colecao": "ig_filmes"
   },
   {
     "id": "DYAR7j6qXEc",
@@ -4677,7 +4783,8 @@
       "Terror",
       "Ficção Científica"
     ],
-    "adicionado": "2026-10-15"
+    "adicionado": "2026-10-15",
+    "colecao": "ig_filmes"
   },
   {
     "id": "Da6UdqpObjv",
@@ -4717,7 +4824,8 @@
       "Terror",
       "Suspense"
     ],
-    "adicionado": "2026-10-15"
+    "adicionado": "2026-10-15",
+    "colecao": "ig_filmes"
   },
   {
     "id": "DaV8z85spJw",
@@ -4755,7 +4863,8 @@
     "gen": [
       "Terror"
     ],
-    "adicionado": "2026-10-15"
+    "adicionado": "2026-10-15",
+    "colecao": "ig_filmes"
   },
   {
     "id": "Da0LVVkplkz",
@@ -4781,7 +4890,8 @@
       "Terror",
       "Suspense"
     ],
-    "adicionado": "2026-10-15"
+    "adicionado": "2026-10-15",
+    "colecao": "ig_filmes"
   },
   {
     "id": "DZquxoMunO6",
@@ -4845,7 +4955,8 @@
       "Terror",
       "Ficção Científica"
     ],
-    "adicionado": "2026-10-15"
+    "adicionado": "2026-10-15",
+    "colecao": "ig_filmes"
   },
   {
     "id": "DYV96wzgEoa",
@@ -4897,7 +5008,8 @@
       "Terror",
       "Suspense"
     ],
-    "adicionado": "2026-10-15"
+    "adicionado": "2026-10-15",
+    "colecao": "ig_filmes"
   },
   {
     "id": "Da3XES0vhnO",
@@ -4936,7 +5048,8 @@
       "Drama",
       "Suspense"
     ],
-    "adicionado": "2026-10-15"
+    "adicionado": "2026-10-15",
+    "colecao": "ig_filmes"
   },
   {
     "id": "DZnUC4dpZdx",
@@ -4963,7 +5076,8 @@
       "Terror",
       "Suspense"
     ],
-    "adicionado": "2026-10-15"
+    "adicionado": "2026-10-15",
+    "colecao": "ig_filmes"
   },
   {
     "id": "Da48-JNC4mh",
@@ -5015,7 +5129,8 @@
       "Drama",
       "Suspense"
     ],
-    "adicionado": "2026-10-15"
+    "adicionado": "2026-10-15",
+    "colecao": "ig_filmes"
   },
   {
     "id": "DYuyoekvDBZ",
@@ -5078,7 +5193,8 @@
       "Terror",
       "Suspense"
     ],
-    "adicionado": "2026-10-15"
+    "adicionado": "2026-10-15",
+    "colecao": "ig_filmes"
   },
   {
     "id": "DZ-spfrIw5s",
@@ -5141,7 +5257,8 @@
       "Drama",
       "Ficção Científica"
     ],
-    "adicionado": "2026-10-15"
+    "adicionado": "2026-10-15",
+    "colecao": "ig_filmes"
   },
   {
     "id": "DYF8eOQCueD",
@@ -5199,7 +5316,8 @@
       "Terror",
       "Suspense"
     ],
-    "adicionado": "2026-10-15"
+    "adicionado": "2026-10-15",
+    "colecao": "ig_filmes"
   },
   {
     "id": "DaeLhaRRwAI",
@@ -5239,7 +5357,8 @@
       "Terror",
       "Suspense"
     ],
-    "adicionado": "2026-10-15"
+    "adicionado": "2026-10-15",
+    "colecao": "ig_filmes"
   },
   {
     "id": "DasidrLBXWv",
@@ -5291,7 +5410,8 @@
       "Terror",
       "Suspense"
     ],
-    "adicionado": "2026-10-15"
+    "adicionado": "2026-10-15",
+    "colecao": "ig_filmes"
   },
   {
     "id": "Dap-UrtSDJn",
@@ -5319,7 +5439,8 @@
       "Drama",
       "Guerra"
     ],
-    "adicionado": "2026-10-15"
+    "adicionado": "2026-10-15",
+    "colecao": "ig_filmes"
   },
   {
     "id": "DaiRcIWAqh8",
@@ -5364,7 +5485,8 @@
       "Terror",
       "Suspense"
     ],
-    "adicionado": "2026-10-15"
+    "adicionado": "2026-10-15",
+    "colecao": "ig_filmes"
   },
   {
     "id": "DYLcVj4SKy-",
@@ -5397,7 +5519,8 @@
       "Terror",
       "Suspense"
     ],
-    "adicionado": "2026-10-15"
+    "adicionado": "2026-10-15",
+    "colecao": "ig_filmes"
   },
   {
     "id": "Dabww_YRkuu",
@@ -5454,7 +5577,8 @@
       "Terror",
       "Suspense"
     ],
-    "adicionado": "2026-10-15"
+    "adicionado": "2026-10-15",
+    "colecao": "ig_filmes"
   },
   {
     "id": "DabjjoNjY0E",
@@ -5507,7 +5631,8 @@
       "Música",
       "Suspense"
     ],
-    "adicionado": "2026-10-15"
+    "adicionado": "2026-10-15",
+    "colecao": "ig_filmes"
   },
   {
     "id": "DaY5dIaj1KB",
@@ -5570,7 +5695,8 @@
       "Terror",
       "Suspense"
     ],
-    "adicionado": "2026-10-15"
+    "adicionado": "2026-10-15",
+    "colecao": "ig_filmes"
   },
   {
     "id": "DaPch5byHPo",
@@ -5622,7 +5748,8 @@
       "Drama",
       "Ficção Científica"
     ],
-    "adicionado": "2026-10-15"
+    "adicionado": "2026-10-15",
+    "colecao": "ig_filmes"
   },
   {
     "id": "DaZDg53NEHt",
@@ -5650,7 +5777,8 @@
       "Suspense",
       "Ficção Científica"
     ],
-    "adicionado": "2026-10-15"
+    "adicionado": "2026-10-15",
+    "colecao": "ig_filmes"
   },
   {
     "id": "DZynVqXx4RY",
@@ -5702,7 +5830,8 @@
       "Suspense",
       "Faroeste"
     ],
-    "adicionado": "2026-10-15"
+    "adicionado": "2026-10-15",
+    "colecao": "ig_filmes"
   },
   {
     "id": "DXAgez4D9Cg",
@@ -5729,7 +5858,8 @@
       "Terror",
       "Suspense"
     ],
-    "adicionado": "2026-10-15"
+    "adicionado": "2026-10-15",
+    "colecao": "ig_filmes"
   },
   {
     "id": "DaSA-2CoIhA",
@@ -5756,7 +5886,8 @@
       "Terror",
       "Suspense"
     ],
-    "adicionado": "2026-10-15"
+    "adicionado": "2026-10-15",
+    "colecao": "ig_filmes"
   },
   {
     "id": "DZWEpjJuAgf",
@@ -5792,7 +5923,8 @@
       "Romance",
       "Ficção Científica"
     ],
-    "adicionado": "2026-10-15"
+    "adicionado": "2026-10-15",
+    "colecao": "ig_filmes"
   },
   {
     "id": "DaMRgz4Oibo",
@@ -5837,7 +5969,8 @@
       "Drama",
       "Suspense"
     ],
-    "adicionado": "2026-10-15"
+    "adicionado": "2026-10-15",
+    "colecao": "ig_filmes"
   },
   {
     "id": "DY2lPbAs5UX",
@@ -5863,7 +5996,8 @@
       "Drama",
       "Romance"
     ],
-    "adicionado": "2026-10-15"
+    "adicionado": "2026-10-15",
+    "colecao": "ig_filmes"
   },
   {
     "id": "DZ_DlrqNmuL",
@@ -5889,7 +6023,8 @@
       "Crime",
       "Drama"
     ],
-    "adicionado": "2026-10-15"
+    "adicionado": "2026-10-15",
+    "colecao": "ig_filmes"
   },
   {
     "id": "DZ2hPZLuzfL",
@@ -5915,7 +6050,8 @@
       "Drama",
       "Suspense"
     ],
-    "adicionado": "2026-10-15"
+    "adicionado": "2026-10-15",
+    "colecao": "ig_filmes"
   },
   {
     "id": "DaHCr5Vhb-j",
@@ -5942,7 +6078,8 @@
       "Terror",
       "Suspense"
     ],
-    "adicionado": "2026-10-15"
+    "adicionado": "2026-10-15",
+    "colecao": "ig_filmes"
   },
   {
     "id": "DZvdWbuh9vv",
@@ -5994,7 +6131,8 @@
       "Terror",
       "Suspense"
     ],
-    "adicionado": "2026-10-15"
+    "adicionado": "2026-10-15",
+    "colecao": "ig_filmes"
   },
   {
     "id": "DXy0l-LRH7g",
@@ -6057,7 +6195,8 @@
       "Terror",
       "Suspense"
     ],
-    "adicionado": "2026-10-15"
+    "adicionado": "2026-10-15",
+    "colecao": "ig_filmes"
   },
   {
     "id": "DZVJP77oSiz",
@@ -6098,7 +6237,8 @@
       "Drama",
       "Suspense"
     ],
-    "adicionado": "2026-10-15"
+    "adicionado": "2026-10-15",
+    "colecao": "ig_filmes"
   },
   {
     "id": "DZGppDQpW84",
@@ -6150,7 +6290,8 @@
       "Terror",
       "Suspense"
     ],
-    "adicionado": "2026-10-15"
+    "adicionado": "2026-10-15",
+    "colecao": "ig_filmes"
   },
   {
     "id": "DZFvfLYukWF",
@@ -6189,7 +6330,8 @@
       "Fantasia",
       "Terror"
     ],
-    "adicionado": "2026-10-15"
+    "adicionado": "2026-10-15",
+    "colecao": "ig_filmes"
   },
   {
     "id": "DYxCDThxA47",
@@ -6228,7 +6370,8 @@
       "Comédia",
       "Fantasia"
     ],
-    "adicionado": "2026-10-15"
+    "adicionado": "2026-10-15",
+    "colecao": "ig_filmes"
   },
   {
     "id": "DYnnIuZMpne",
@@ -6286,7 +6429,8 @@
       "Crime",
       "Suspense"
     ],
-    "adicionado": "2026-10-15"
+    "adicionado": "2026-10-15",
+    "colecao": "ig_filmes"
   },
   {
     "id": "DdHLnGzxMP3",
@@ -6327,7 +6471,8 @@
       "Terror",
       "Ficção Científica"
     ],
-    "adicionado": "2026-10-15"
+    "adicionado": "2026-10-15",
+    "colecao": "ig_todos"
   },
   {
     "id": "DeYBrOwOvwg",
@@ -6354,7 +6499,8 @@
       "Comédia",
       "Suspense"
     ],
-    "adicionado": "2026-10-15"
+    "adicionado": "2026-10-15",
+    "colecao": "ig_todos"
   },
   {
     "id": "DeFzMrmx5f1",
@@ -6379,7 +6525,8 @@
     "gen": [
       "Comédia"
     ],
-    "adicionado": "2026-10-15"
+    "adicionado": "2026-10-15",
+    "colecao": "ig_todos"
   },
   {
     "id": "DdKlaz8Slot",
@@ -6423,7 +6570,8 @@
     "gen": [
       "Drama"
     ],
-    "adicionado": "2026-10-15"
+    "adicionado": "2026-10-15",
+    "colecao": "ig_todos"
   },
   {
     "id": "DdfKRqQxwG0",
@@ -6458,7 +6606,8 @@
       "Suspense",
       "Ficção Científica"
     ],
-    "adicionado": "2026-10-15"
+    "adicionado": "2026-10-15",
+    "colecao": "ig_todos"
   },
   {
     "id": "DcltRMbCst2",
@@ -6493,7 +6642,8 @@
       "Suspense",
       "Ficção Científica"
     ],
-    "adicionado": "2026-10-15"
+    "adicionado": "2026-10-15",
+    "colecao": "ig_todos"
   },
   {
     "id": "DdfzyiLyixJ",
@@ -6522,7 +6672,8 @@
       "História",
       "Guerra"
     ],
-    "adicionado": "2026-10-15"
+    "adicionado": "2026-10-15",
+    "colecao": "ig_todos"
   },
   {
     "id": "DdZuCWwvj7B",
@@ -6560,7 +6711,8 @@
     "gen": [
       "Drama"
     ],
-    "adicionado": "2026-10-15"
+    "adicionado": "2026-10-15",
+    "colecao": "ig_todos"
   },
   {
     "id": "Dca1xbRO4Wm",
@@ -6593,7 +6745,8 @@
       "Drama",
       "Suspense"
     ],
-    "adicionado": "2026-10-15"
+    "adicionado": "2026-10-15",
+    "colecao": "ig_todos"
   },
   {
     "id": "DcWPO3Yx0-W",
@@ -6645,7 +6798,8 @@
       "Terror",
       "Suspense"
     ],
-    "adicionado": "2026-10-15"
+    "adicionado": "2026-10-15",
+    "colecao": "ig_todos"
   },
   {
     "id": "Dc_luWrJI3w",
@@ -6672,7 +6826,8 @@
       "Fantasia",
       "Ficção Científica"
     ],
-    "adicionado": "2026-10-15"
+    "adicionado": "2026-10-15",
+    "colecao": "ig_todos"
   },
   {
     "id": "DV0xKjcDg98",
@@ -6723,7 +6878,8 @@
       "Terror",
       "Suspense"
     ],
-    "adicionado": "2026-10-15"
+    "adicionado": "2026-10-15",
+    "colecao": "ig_todos"
   },
   {
     "id": "Dcq8jgfO1l1",
@@ -6753,7 +6909,8 @@
       "Ficção Científica",
       "Reality"
     ],
-    "adicionado": "2026-10-15"
+    "adicionado": "2026-10-15",
+    "colecao": "ig_todos"
   },
   {
     "id": "DbmA3U1DZ2B",
@@ -6819,7 +6976,8 @@
       "Drama",
       "Fantasia"
     ],
-    "adicionado": "2026-10-15"
+    "adicionado": "2026-10-15",
+    "colecao": "ig_todos"
   },
   {
     "id": "Dc1VLb7iYGZ",
@@ -6859,7 +7017,8 @@
       "Drama",
       "Ficção Científica"
     ],
-    "adicionado": "2026-10-15"
+    "adicionado": "2026-10-15",
+    "colecao": "ig_todos"
   },
   {
     "id": "DcyvdhtMxe1",
@@ -6899,7 +7058,8 @@
       "Drama",
       "Suspense"
     ],
-    "adicionado": "2026-10-15"
+    "adicionado": "2026-10-15",
+    "colecao": "ig_todos"
   },
   {
     "id": "DckIhWugtX6",
@@ -6963,7 +7123,8 @@
       "Terror",
       "Suspense"
     ],
-    "adicionado": "2026-10-15"
+    "adicionado": "2026-10-15",
+    "colecao": "ig_todos"
   },
   {
     "id": "DcjnytAx7iI",
@@ -7025,7 +7186,8 @@
     "gen": [
       "Ficção Científica"
     ],
-    "adicionado": "2026-10-15"
+    "adicionado": "2026-10-15",
+    "colecao": "ig_todos"
   },
   {
     "id": "DbxkbYVs9J-",
@@ -7052,7 +7214,8 @@
       "Suspense",
       "Ficção Científica"
     ],
-    "adicionado": "2026-10-15"
+    "adicionado": "2026-10-15",
+    "colecao": "ig_todos"
   },
   {
     "id": "DbLiPz6RbQb",
@@ -7084,7 +7247,8 @@
     "gen": [
       "Drama"
     ],
-    "adicionado": "2026-10-15"
+    "adicionado": "2026-10-15",
+    "colecao": "ig_todos"
   },
   {
     "id": "Dbwjak0BpAA",
@@ -7123,7 +7287,8 @@
       "Crime",
       "Drama"
     ],
-    "adicionado": "2026-10-15"
+    "adicionado": "2026-10-15",
+    "colecao": "ig_todos"
   },
   {
     "id": "DbnSA3tBbpW",
@@ -7186,7 +7351,8 @@
       "Drama",
       "Família"
     ],
-    "adicionado": "2026-10-15"
+    "adicionado": "2026-10-15",
+    "colecao": "ig_todos"
   },
   {
     "id": "Dbid-xTxY4V",
@@ -7249,7 +7415,8 @@
       "Drama",
       "Família"
     ],
-    "adicionado": "2026-10-15"
+    "adicionado": "2026-10-15",
+    "colecao": "ig_todos"
   },
   {
     "id": "DagauiXhDKA",
@@ -7277,7 +7444,8 @@
       "História",
       "Guerra"
     ],
-    "adicionado": "2026-10-15"
+    "adicionado": "2026-10-15",
+    "colecao": "ig_todos"
   },
   {
     "id": "DaB9AYXtYfA",
@@ -7315,7 +7483,8 @@
     "gen": [
       "Drama"
     ],
-    "adicionado": "2026-10-15"
+    "adicionado": "2026-10-15",
+    "colecao": "ig_todos"
   },
   {
     "id": "DYpcXCOxlqE",
@@ -7354,7 +7523,8 @@
       "Crime",
       "Drama"
     ],
-    "adicionado": "2026-10-15"
+    "adicionado": "2026-10-15",
+    "colecao": "ig_todos"
   },
   {
     "id": "DY-eugCx0Ns",
@@ -7404,7 +7574,8 @@
     "gen": [
       "Drama"
     ],
-    "adicionado": "2026-10-15"
+    "adicionado": "2026-10-15",
+    "colecao": "ig_todos"
   },
   {
     "id": "DYipZxUtmlj",
@@ -7455,7 +7626,8 @@
       "Terror",
       "Suspense"
     ],
-    "adicionado": "2026-10-15"
+    "adicionado": "2026-10-15",
+    "colecao": "ig_todos"
   },
   {
     "id": "DXkxgk4gDKS",
@@ -7508,7 +7680,8 @@
       "Suspense",
       "Ficção Científica"
     ],
-    "adicionado": "2026-10-15"
+    "adicionado": "2026-10-15",
+    "colecao": "ig_todos"
   },
   {
     "id": "DYdVsAiA6wu",
@@ -7571,7 +7744,8 @@
       "Ação",
       "Comédia"
     ],
-    "adicionado": "2026-10-15"
+    "adicionado": "2026-10-15",
+    "colecao": "ig_todos"
   },
   {
     "id": "DYX9oW_pI9M",
@@ -7612,7 +7786,8 @@
       "Drama",
       "Ficção Científica"
     ],
-    "adicionado": "2026-10-15"
+    "adicionado": "2026-10-15",
+    "colecao": "ig_todos"
   },
   {
     "id": "DVYhklcANQo",
@@ -7654,7 +7829,8 @@
       "Drama",
       "Romance"
     ],
-    "adicionado": "2026-10-15"
+    "adicionado": "2026-10-15",
+    "colecao": "ig_todos"
   },
   {
     "id": "DXaLUWajdk3",
@@ -7693,7 +7869,8 @@
       "Drama",
       "Suspense"
     ],
-    "adicionado": "2026-10-15"
+    "adicionado": "2026-10-15",
+    "colecao": "ig_todos"
   },
   {
     "id": "DYFhb5xsDpv",
@@ -7721,7 +7898,8 @@
       "Suspense",
       "Guerra"
     ],
-    "adicionado": "2026-10-15"
+    "adicionado": "2026-10-15",
+    "colecao": "ig_todos"
   },
   {
     "id": "DYARm3jRIlI",
@@ -7747,7 +7925,8 @@
       "Ação",
       "Fantasia"
     ],
-    "adicionado": "2026-10-15"
+    "adicionado": "2026-10-15",
+    "colecao": "ig_todos"
   },
   {
     "id": "DWReMM2Dub0",
@@ -7787,7 +7966,8 @@
       "Drama",
       "Esporte"
     ],
-    "adicionado": "2026-10-15"
+    "adicionado": "2026-10-15",
+    "colecao": "ig_todos"
   },
   {
     "id": "DXr9ni6Djuk",
@@ -7814,7 +7994,8 @@
       "Suspense",
       "Romance"
     ],
-    "adicionado": "2026-10-15"
+    "adicionado": "2026-10-15",
+    "colecao": "ig_todos"
   },
   {
     "id": "DXnAT06Akls",
@@ -7856,7 +8037,8 @@
       "Suspense",
       "Esporte"
     ],
-    "adicionado": "2026-10-15"
+    "adicionado": "2026-10-15",
+    "colecao": "ig_todos"
   },
   {
     "id": "Dee0ikvsnt0",
@@ -7914,7 +8096,8 @@
       "Terror",
       "Suspense"
     ],
-    "adicionado": "2026-10-15"
+    "adicionado": "2026-10-15",
+    "colecao": "chat"
   },
   {
     "id": "DecArHWx7Io",
@@ -7954,7 +8137,8 @@
       "Suspense",
       "Romance"
     ],
-    "adicionado": "2026-10-15"
+    "adicionado": "2026-10-15",
+    "colecao": "chat"
   },
   {
     "id": "DefajJwK4ZJ",
@@ -7989,7 +8173,8 @@
       "Suspense",
       "Ficção Científica"
     ],
-    "adicionado": "2026-10-15"
+    "adicionado": "2026-10-15",
+    "colecao": "chat"
   },
   {
     "id": "DeevS4Wv_Lz",
@@ -8030,7 +8215,8 @@
       "Drama",
       "Suspense"
     ],
-    "adicionado": "2026-10-15"
+    "adicionado": "2026-10-15",
+    "colecao": "chat"
   },
   {
     "id": "Deer7OWOGwX",
@@ -8088,7 +8274,8 @@
       "Terror",
       "Suspense"
     ],
-    "adicionado": "2026-10-15"
+    "adicionado": "2026-10-15",
+    "colecao": "chat"
   },
   {
     "id": "DeedbHfTjQk",
@@ -8122,7 +8309,8 @@
       "Família",
       "Esporte"
     ],
-    "adicionado": "2026-10-15"
+    "adicionado": "2026-10-15",
+    "colecao": "chat"
   },
   {
     "id": "DdSB29pMYjN",
@@ -8155,7 +8343,8 @@
     "gen": [
       "Terror"
     ],
-    "adicionado": "2026-10-15"
+    "adicionado": "2026-10-15",
+    "colecao": "chat"
   },
   {
     "id": "DdkfYpXA7BU",
@@ -8195,7 +8384,8 @@
       "Fantasia",
       "Ficção Científica"
     ],
-    "adicionado": "2026-10-15"
+    "adicionado": "2026-10-15",
+    "colecao": "chat"
   },
   {
     "id": "DeNJxQws_dV",
@@ -8247,7 +8437,8 @@
       "Terror",
       "Suspense"
     ],
-    "adicionado": "2026-10-15"
+    "adicionado": "2026-10-15",
+    "colecao": "chat"
   },
   {
     "id": "DedCcV6g2UX",
@@ -8281,7 +8472,8 @@
       "Ficção Científica",
       "Suspense"
     ],
-    "adicionado": "2026-10-15"
+    "adicionado": "2026-10-15",
+    "colecao": "chat"
   },
   {
     "pt": "A Morte do Demônio: Em Chamas",
@@ -8331,7 +8523,8 @@
     "gen": [
       "Terror"
     ],
-    "adicionado": "2026-10-15"
+    "adicionado": "2026-10-15",
+    "colecao": "chat"
   },
   {
     "pt": "Buddy",
@@ -8360,7 +8553,8 @@
       "Terror",
       "Suspense"
     ],
-    "adicionado": "2026-10-15"
+    "adicionado": "2026-10-15",
+    "colecao": "chat"
   },
   {
     "pt": "Leviticus",
@@ -8388,7 +8582,8 @@
       "Romance",
       "Ficção Científica"
     ],
-    "adicionado": "2026-10-15"
+    "adicionado": "2026-10-15",
+    "colecao": "chat"
   },
   {
     "pt": "Mãe das Moscas",
@@ -8415,7 +8610,8 @@
       "Terror",
       "Suspense"
     ],
-    "adicionado": "2026-10-15"
+    "adicionado": "2026-10-15",
+    "colecao": "chat"
   },
   {
     "pt": "Extermínio: O Templo dos Ossos",
@@ -8467,7 +8663,8 @@
       "Suspense",
       "Ficção Científica"
     ],
-    "adicionado": "2026-10-15"
+    "adicionado": "2026-10-15",
+    "colecao": "chat"
   },
   {
     "pt": "Hope",
@@ -8495,7 +8692,8 @@
       "Suspense",
       "Ficção Científica"
     ],
-    "adicionado": "2026-10-15"
+    "adicionado": "2026-10-15",
+    "colecao": "chat"
   },
   {
     "pt": "Backrooms",
@@ -8547,7 +8745,8 @@
       "Suspense",
       "Ficção Científica"
     ],
-    "adicionado": "2026-10-15"
+    "adicionado": "2026-10-15",
+    "colecao": "chat"
   },
   {
     "pt": "Zona Zero",
@@ -8577,7 +8776,8 @@
       "Suspense",
       "Ficção Científica"
     ],
-    "adicionado": "2026-10-15"
+    "adicionado": "2026-10-15",
+    "colecao": "chat"
   },
   {
     "pt": "Obsessão",
@@ -8628,7 +8828,8 @@
       "Terror",
       "Suspense"
     ],
-    "adicionado": "2026-10-15"
+    "adicionado": "2026-10-15",
+    "colecao": "chat"
   },
   {
     "id": "DdlfICbzImW",
@@ -8656,7 +8857,8 @@
       "Terror",
       "Suspense"
     ],
-    "adicionado": "2026-10-15"
+    "adicionado": "2026-10-15",
+    "colecao": "chat"
   },
   {
     "id": "yt-X2bL2jdzz3M",
@@ -8683,7 +8885,8 @@
       "Suspense",
       "Ficção Científica"
     ],
-    "adicionado": "2026-10-15"
+    "adicionado": "2026-10-15",
+    "colecao": "chat"
   },
   {
     "id": "DeK3wmQxQwU",
@@ -8741,7 +8944,8 @@
       "Terror",
       "Suspense"
     ],
-    "adicionado": "2026-10-16"
+    "adicionado": "2026-10-16",
+    "colecao": "chat"
   },
   {
     "id": "DeKhybXPPlk",
@@ -8782,7 +8986,8 @@
       "Romance",
       "Ficção Científica"
     ],
-    "adicionado": "2026-10-16"
+    "adicionado": "2026-10-16",
+    "colecao": "chat"
   },
   {
     "id": "DePMlHxx1r6",
@@ -8809,7 +9014,8 @@
       "Terror",
       "Ficção Científica"
     ],
-    "adicionado": "2026-10-16"
+    "adicionado": "2026-10-16",
+    "colecao": "chat"
   },
   {
     "id": "DeigkBOA77M",
@@ -8837,7 +9043,8 @@
       "Suspense",
       "Ficção Científica"
     ],
-    "adicionado": "2026-10-16"
+    "adicionado": "2026-10-16",
+    "colecao": "chat"
   },
   {
     "id": "DeX5vSpgabm",
@@ -8873,7 +9080,8 @@
       "Terror",
       "Ficção Científica"
     ],
-    "adicionado": "2026-10-16"
+    "adicionado": "2026-10-16",
+    "colecao": "chat"
   },
   {
     "id": "DeSjfX2RJEN",
@@ -8900,7 +9108,8 @@
       "Drama",
       "Terror"
     ],
-    "adicionado": "2026-10-16"
+    "adicionado": "2026-10-16",
+    "colecao": "chat"
   },
   {
     "id": "DbCMGjuu6xi",
@@ -8929,7 +9138,8 @@
       "Ficção Científica",
       "Ação"
     ],
-    "adicionado": "2026-10-16"
+    "adicionado": "2026-10-16",
+    "colecao": "chat"
   },
   {
     "id": "DelGwzIjujv",
@@ -8963,7 +9173,8 @@
       "Suspense",
       "Ficção Científica"
     ],
-    "adicionado": "2026-10-17"
+    "adicionado": "2026-10-17",
+    "colecao": "chat"
   },
   {
     "id": "DavYIxZyNNw",
@@ -8999,7 +9210,8 @@
       "Suspense",
       "Ficção Científica"
     ],
-    "adicionado": "2026-10-17"
+    "adicionado": "2026-10-17",
+    "colecao": "chat"
   },
   {
     "id": "DdmBdjoPjcs",
@@ -9032,7 +9244,8 @@
       "Ação",
       "Crime"
     ],
-    "adicionado": "2026-10-17"
+    "adicionado": "2026-10-17",
+    "colecao": "chat"
   },
   {
     "id": "yt-iumHE6e7XAQ",
@@ -9066,7 +9279,8 @@
       "Crime",
       "Drama"
     ],
-    "adicionado": "2026-10-18"
+    "adicionado": "2026-10-18",
+    "colecao": "chat"
   },
   {
     "id": "Del2CP_kctB",
@@ -9092,7 +9306,8 @@
       "Terror",
       "Suspense"
     ],
-    "adicionado": "2026-10-18"
+    "adicionado": "2026-10-18",
+    "colecao": "chat"
   },
   {
     "id": "DdRICblx2LQ-collini",
@@ -9156,7 +9371,8 @@
       "Drama",
       "Suspense"
     ],
-    "adicionado": "2026-10-18"
+    "adicionado": "2026-10-18",
+    "colecao": "chat"
   },
   {
     "id": "DdRICblx2LQ-mysticriver",
@@ -9220,7 +9436,8 @@
       "Drama",
       "Suspense"
     ],
-    "adicionado": "2026-10-18"
+    "adicionado": "2026-10-18",
+    "colecao": "chat"
   },
   {
     "id": "DdRICblx2LQ-argo",
@@ -9272,7 +9489,8 @@
       "História",
       "Suspense"
     ],
-    "adicionado": "2026-10-18"
+    "adicionado": "2026-10-18",
+    "colecao": "chat"
   },
   {
     "id": "DdRICblx2LQ-imitationgame",
@@ -9337,7 +9555,8 @@
       "Suspense",
       "Guerra"
     ],
-    "adicionado": "2026-10-18"
+    "adicionado": "2026-10-18",
+    "colecao": "chat"
   },
   {
     "id": "DdRICblx2LQ-inglouriousbasterds",
@@ -9401,7 +9620,8 @@
       "Suspense",
       "Guerra"
     ],
-    "adicionado": "2026-10-18"
+    "adicionado": "2026-10-18",
+    "colecao": "chat"
   },
   {
     "id": "DchIKokB2Qk",
@@ -9430,7 +9650,8 @@
       "Terror",
       "Fantasia"
     ],
-    "adicionado": "2026-10-18"
+    "adicionado": "2026-10-18",
+    "colecao": "chat"
   },
   {
     "id": "Deo0eLpx3wu",
@@ -9457,7 +9678,8 @@
       "Drama",
       "Suspense"
     ],
-    "adicionado": "2026-10-19"
+    "adicionado": "2026-10-19",
+    "colecao": "chat"
   },
   {
     "id": "DemYUuYB4_D",
@@ -9482,7 +9704,8 @@
     "gen": [
       "Drama"
     ],
-    "adicionado": "2026-10-19"
+    "adicionado": "2026-10-19",
+    "colecao": "chat"
   },
   {
     "id": "Depgp7XTp-r",
@@ -9546,7 +9769,8 @@
       "Fantasia",
       "Drama"
     ],
-    "adicionado": "2026-10-19"
+    "adicionado": "2026-10-19",
+    "colecao": "chat"
   },
   {
     "id": "DeC8nbnO80i",
@@ -9586,7 +9810,8 @@
       "Drama",
       "Suspense"
     ],
-    "adicionado": "2026-10-19"
+    "adicionado": "2026-10-19",
+    "colecao": "chat"
   },
   {
     "id": "DesY6TDSxwI",
@@ -9626,7 +9851,8 @@
       "Ação",
       "Família"
     ],
-    "adicionado": "2026-10-20"
+    "adicionado": "2026-10-20",
+    "colecao": "chat"
   },
   {
     "id": "DeLo2O8qUJj",
@@ -9660,7 +9886,8 @@
       "Drama",
       "Ficção Científica"
     ],
-    "adicionado": "2026-10-20"
+    "adicionado": "2026-10-20",
+    "colecao": "chat"
   },
   {
     "id": "DerdxhJSngu",
@@ -9687,7 +9914,8 @@
       "História",
       "Suspense"
     ],
-    "adicionado": "2026-10-20"
+    "adicionado": "2026-10-20",
+    "colecao": "chat"
   },
   {
     "id": "DehhYqcAskV",
@@ -9727,7 +9955,8 @@
       "Drama",
       "Suspense"
     ],
-    "adicionado": "2026-10-20"
+    "adicionado": "2026-10-20",
+    "colecao": "chat"
   },
   {
     "id": "DdBy2-bO9IA",
@@ -9760,7 +9989,8 @@
       "Comédia",
       "Romance"
     ],
-    "adicionado": "2026-10-20"
+    "adicionado": "2026-10-20",
+    "colecao": "chat"
   },
   {
     "id": "Ddu01zCuiam",
@@ -9800,7 +10030,8 @@
       "Faroeste",
       "Comédia"
     ],
-    "adicionado": "2026-10-20"
+    "adicionado": "2026-10-20",
+    "colecao": "chat"
   },
   {
     "id": "DePHBL1uwC9-oculus",
@@ -9863,7 +10094,8 @@
     ],
     "ig": "https://www.instagram.com/p/DePHBL1uwC9/",
     "origem": "chat",
-    "adicionado": "2026-10-20"
+    "adicionado": "2026-10-20",
+    "colecao": "chat"
   },
   {
     "id": "DePHBL1uwC9-hush",
@@ -9908,7 +10140,8 @@
     ],
     "ig": "https://www.instagram.com/p/DePHBL1uwC9/",
     "origem": "chat",
-    "adicionado": "2026-10-20"
+    "adicionado": "2026-10-20",
+    "colecao": "chat"
   },
   {
     "id": "DePHBL1uwC9-doctorsleep",
@@ -9967,7 +10200,8 @@
     ],
     "ig": "https://www.instagram.com/p/DePHBL1uwC9/",
     "origem": "chat",
-    "adicionado": "2026-10-20"
+    "adicionado": "2026-10-20",
+    "colecao": "chat"
   },
   {
     "id": "DePHBL1uwC9-exorcistmartyrs",
@@ -9993,7 +10227,8 @@
     ],
     "ig": "https://www.instagram.com/p/DePHBL1uwC9/",
     "origem": "chat",
-    "adicionado": "2026-10-20"
+    "adicionado": "2026-10-20",
+    "colecao": "chat"
   },
   {
     "id": "Deu5EBIpD-W",
@@ -10020,7 +10255,8 @@
       "Suspense",
       "Ficção Científica"
     ],
-    "adicionado": "2026-10-21"
+    "adicionado": "2026-10-21",
+    "colecao": "chat"
   },
   {
     "id": "DcPZndHx3fr",
@@ -10060,7 +10296,8 @@
       "Drama",
       "Suspense"
     ],
-    "adicionado": "2026-10-21"
+    "adicionado": "2026-10-21",
+    "colecao": "chat"
   },
   {
     "id": "Dd9Dy8_o70M-weakhero",
@@ -10100,7 +10337,8 @@
       "Drama",
       "Suspense"
     ],
-    "adicionado": "2026-10-21"
+    "adicionado": "2026-10-21",
+    "colecao": "chat"
   },
   {
     "id": "Dd9Dy8_o70M-allofusaredead",
@@ -10141,7 +10379,8 @@
       "Drama",
       "Suspense"
     ],
-    "adicionado": "2026-10-21"
+    "adicionado": "2026-10-21",
+    "colecao": "chat"
   },
   {
     "id": "Dd9Dy8_o70M-island",
@@ -10182,7 +10421,8 @@
       "Terror",
       "Drama"
     ],
-    "adicionado": "2026-10-21"
+    "adicionado": "2026-10-21",
+    "colecao": "chat"
   },
   {
     "id": "Dd9Dy8_o70M-squidgame",
@@ -10223,7 +10463,8 @@
       "Suspense",
       "Crime"
     ],
-    "adicionado": "2026-10-21"
+    "adicionado": "2026-10-21",
+    "colecao": "chat"
   },
   {
     "id": "Dd9Dy8_o70M-theglory",
@@ -10262,7 +10503,8 @@
       "Drama",
       "Suspense"
     ],
-    "adicionado": "2026-10-21"
+    "adicionado": "2026-10-21",
+    "colecao": "chat"
   },
   {
     "id": "Dd9Dy8_o70M-hellbound",
@@ -10303,7 +10545,8 @@
       "Drama",
       "Suspense"
     ],
-    "adicionado": "2026-10-21"
+    "adicionado": "2026-10-21",
+    "colecao": "chat"
   },
   {
     "id": "Dd9Dy8_o70M-sweethome",
@@ -10344,7 +10587,8 @@
       "Ação",
       "Drama"
     ],
-    "adicionado": "2026-10-21"
+    "adicionado": "2026-10-21",
+    "colecao": "chat"
   },
   {
     "id": "Dd9Dy8_o70M-ninetailed",
@@ -10397,7 +10641,8 @@
       "Drama",
       "Terror"
     ],
-    "adicionado": "2026-10-21"
+    "adicionado": "2026-10-21",
+    "colecao": "chat"
   },
   {
     "id": "Dd9Dy8_o70M-uncannycounter",
@@ -10438,7 +10683,8 @@
       "Terror",
       "Drama"
     ],
-    "adicionado": "2026-10-21"
+    "adicionado": "2026-10-21",
+    "colecao": "chat"
   },
   {
     "id": "Dd9Dy8_o70M-alchemyofsouls",
@@ -10479,7 +10725,8 @@
       "Ação",
       "Drama"
     ],
-    "adicionado": "2026-10-21"
+    "adicionado": "2026-10-21",
+    "colecao": "chat"
   },
   {
     "id": "Dd9Dy8_o70M-dp",
@@ -10519,7 +10766,8 @@
       "Ação",
       "Crime"
     ],
-    "adicionado": "2026-10-21"
+    "adicionado": "2026-10-21",
+    "colecao": "chat"
   },
   {
     "id": "Dd9Dy8_o70M-stranger",
@@ -10565,7 +10813,8 @@
       "Drama",
       "Suspense"
     ],
-    "adicionado": "2026-10-21"
+    "adicionado": "2026-10-21",
+    "colecao": "chat"
   },
   {
     "id": "Dd9Dy8_o70M-voice",
@@ -10592,7 +10841,8 @@
       "Suspense",
       "Drama"
     ],
-    "adicionado": "2026-10-21"
+    "adicionado": "2026-10-21",
+    "colecao": "chat"
   },
   {
     "id": "Dd9Dy8_o70M-gooddetective",
@@ -10633,7 +10883,8 @@
       "Suspense",
       "Ação"
     ],
-    "adicionado": "2026-10-21"
+    "adicionado": "2026-10-21",
+    "colecao": "chat"
   },
   {
     "id": "Dd9Dy8_o70M-partnersforjustice",
@@ -10673,7 +10924,8 @@
       "Drama",
       "Suspense"
     ],
-    "adicionado": "2026-10-21"
+    "adicionado": "2026-10-21",
+    "colecao": "chat"
   },
   {
     "id": "DeslbqZRCVF",
@@ -10714,7 +10966,8 @@
       "Fantasia",
       "Drama"
     ],
-    "adicionado": "2026-10-21"
+    "adicionado": "2026-10-21",
+    "colecao": "chat"
   },
   {
     "id": "Dek5To1xXGN",
@@ -10766,7 +11019,8 @@
       "Terror",
       "Suspense"
     ],
-    "adicionado": "2026-10-21"
+    "adicionado": "2026-10-21",
+    "colecao": "chat"
   },
   {
     "id": "Dew5PgRynny",
@@ -10793,7 +11047,8 @@
       "Suspense",
       "Drama"
     ],
-    "adicionado": "2026-10-21"
+    "adicionado": "2026-10-21",
+    "colecao": "chat"
   },
   {
     "id": "DeaooqZyupy",
@@ -10845,7 +11100,8 @@
       "Drama",
       "Fantasia"
     ],
-    "adicionado": "2026-10-21"
+    "adicionado": "2026-10-21",
+    "colecao": "chat"
   },
   {
     "id": "Dcszx7MsdkL",
@@ -10871,7 +11127,8 @@
       "Ação",
       "Suspense"
     ],
-    "adicionado": "2026-10-22"
+    "adicionado": "2026-10-22",
+    "colecao": "chat"
   },
   {
     "id": "DeqRz3jlfHO",
@@ -10907,7 +11164,8 @@
       "Romance",
       "Comédia"
     ],
-    "adicionado": "2026-10-22"
+    "adicionado": "2026-10-22",
+    "colecao": "chat"
   },
   {
     "id": "Dcdv73qPBMc",
@@ -10940,7 +11198,8 @@
       "Terror",
       "Suspense"
     ],
-    "adicionado": "2026-10-22"
+    "adicionado": "2026-10-22",
+    "colecao": "chat"
   },
   {
     "id": "DaYternhWvZ",
@@ -10967,7 +11226,8 @@
       "Drama",
       "Suspense"
     ],
-    "adicionado": "2026-10-22"
+    "adicionado": "2026-10-22",
+    "colecao": "chat"
   },
   {
     "id": "Dez5j1DBCny",
@@ -11000,7 +11260,8 @@
       "Terror",
       "Comédia"
     ],
-    "adicionado": "2026-10-22"
+    "adicionado": "2026-10-22",
+    "colecao": "chat"
   },
   {
     "id": "DedClxPpDMw",
@@ -11028,7 +11289,8 @@
       "Drama",
       "Crime"
     ],
-    "adicionado": "2026-10-22"
+    "adicionado": "2026-10-22",
+    "colecao": "chat"
   },
   {
     "id": "DcEjFR9uQ7-",
@@ -11080,7 +11342,8 @@
       "Crime",
       "Romance"
     ],
-    "adicionado": "2026-10-23"
+    "adicionado": "2026-10-23",
+    "colecao": "chat"
   },
   {
     "id": "De1Qymupuiz",
@@ -11132,7 +11395,8 @@
       "Ação",
       "Suspense"
     ],
-    "adicionado": "2026-10-23"
+    "adicionado": "2026-10-23",
+    "colecao": "chat"
   },
   {
     "id": "DeAowxStXBn",
@@ -11184,7 +11448,8 @@
       "Crime",
       "Suspense"
     ],
-    "adicionado": "2026-10-25"
+    "adicionado": "2026-10-25",
+    "colecao": "chat"
   },
   {
     "id": "DewnSL4v9-u",
@@ -11223,7 +11488,8 @@
       "Terror",
       "Suspense"
     ],
-    "adicionado": "2026-10-25"
+    "adicionado": "2026-10-25",
+    "colecao": "chat"
   },
   {
     "id": "DesvEz2RELz",
@@ -11275,7 +11541,8 @@
       "Drama",
       "Fantasia"
     ],
-    "adicionado": "2026-10-25"
+    "adicionado": "2026-10-25",
+    "colecao": "chat"
   },
   {
     "id": "yKBcgBhgfXQ",
@@ -11328,7 +11595,8 @@
       "Drama",
       "Fantasia"
     ],
-    "adicionado": "2026-10-25"
+    "adicionado": "2026-10-25",
+    "colecao": "chat"
   },
   {
     "id": "Dd2h9IGB73q",
@@ -11386,7 +11654,8 @@
       "Drama",
       "Terror"
     ],
-    "adicionado": "2026-10-25"
+    "adicionado": "2026-10-25",
+    "colecao": "chat"
   },
   {
     "id": "De4tpsbSvq1",
@@ -11413,7 +11682,8 @@
       "Ficção científica",
       "Suspense"
     ],
-    "adicionado": "2026-10-25"
+    "adicionado": "2026-10-25",
+    "colecao": "chat"
   },
   {
     "id": "DemcqVQuS5N",
@@ -11446,7 +11716,8 @@
       "Terror",
       "Ficção científica"
     ],
-    "adicionado": "2026-10-25"
+    "adicionado": "2026-10-25",
+    "colecao": "chat"
   },
   {
     "id": "De7apvssv4o",
@@ -11491,7 +11762,8 @@
       "Comédia",
       "Terror"
     ],
-    "adicionado": "2026-10-26"
+    "adicionado": "2026-10-26",
+    "colecao": "chat"
   },
   {
     "id": "Dd063nKJYkl",
@@ -11525,7 +11797,8 @@
       "Crime",
       "Drama"
     ],
-    "adicionado": "2026-10-26"
+    "adicionado": "2026-10-26",
+    "colecao": "chat"
   },
   {
     "id": "DfChLHBRTQ1",
@@ -11552,7 +11825,8 @@
       "Suspense",
       "Biografia"
     ],
-    "adicionado": "2026-10-29"
+    "adicionado": "2026-10-29",
+    "colecao": "chat"
   },
   {
     "id": "DfGFwXiskZm",
@@ -11579,7 +11853,8 @@
       "Terror",
       "Drama"
     ],
-    "adicionado": "2026-10-30"
+    "adicionado": "2026-10-30",
+    "colecao": "chat"
   },
   {
     "id": "DfH2rbTh4RR",
@@ -11606,7 +11881,8 @@
       "Drama",
       "Mistério"
     ],
-    "adicionado": "2026-10-30"
+    "adicionado": "2026-10-30",
+    "colecao": "chat"
   },
   {
     "id": "Demf24oCN3F",
@@ -11646,7 +11922,8 @@
       "Suspense",
       "Drama"
     ],
-    "adicionado": "2026-10-31"
+    "adicionado": "2026-10-31",
+    "colecao": "chat"
   },
   {
     "id": "DcHRFHuSG7C",
@@ -11698,7 +11975,8 @@
       "Fantasia",
       "Drama"
     ],
-    "adicionado": "2026-10-31"
+    "adicionado": "2026-10-31",
+    "colecao": "chat"
   },
   {
     "id": "DfIGf27Bni5",
@@ -11725,7 +12003,8 @@
       "Ação",
       "Drama"
     ],
-    "adicionado": "2026-10-31"
+    "adicionado": "2026-10-31",
+    "colecao": "chat"
   },
   {
     "id": "DfKoFvMomSz",
@@ -11777,7 +12056,8 @@
       "Ação",
       "Fantasia"
     ],
-    "adicionado": "2026-11-01"
+    "adicionado": "2026-11-01",
+    "colecao": "chat"
   },
   {
     "id": "DfKwwzOsafI",
@@ -11835,7 +12115,8 @@
       "Ficção científica",
       "Suspense"
     ],
-    "adicionado": "2026-11-01"
+    "adicionado": "2026-11-01",
+    "colecao": "chat"
   },
   {
     "id": "Dc6n_QGx8ro",
@@ -11862,7 +12143,8 @@
       "Terror",
       "Drama"
     ],
-    "adicionado": "2026-11-02"
+    "adicionado": "2026-11-02",
+    "colecao": "chat"
   },
   {
     "id": "Det3jIaxsJ9",
@@ -11896,7 +12178,8 @@
       "Mistério",
       "Drama"
     ],
-    "adicionado": "2026-11-02"
+    "adicionado": "2026-11-02",
+    "colecao": "chat"
   },
   {
     "id": "DaXfbtjB1ot",
@@ -11930,7 +12213,8 @@
       "Crime",
       "Drama"
     ],
-    "adicionado": "2026-11-03"
+    "adicionado": "2026-11-03",
+    "colecao": "chat"
   },
   {
     "id": "DfPn4jHMToK",
@@ -11957,7 +12241,8 @@
       "Suspense"
     ],
     "jwl": "Buscar no JustWatch Brasil",
-    "adicionado": "2026-11-03"
+    "adicionado": "2026-11-03",
+    "colecao": "chat"
   },
   {
     "id": "DfQt1M6R81D",
@@ -11984,7 +12269,8 @@
       "Fantasia",
       "Ficção científica"
     ],
-    "adicionado": "2026-11-04"
+    "adicionado": "2026-11-04",
+    "colecao": "chat"
   },
   {
     "id": "Dd9xWd7hFCo_void",
@@ -12018,7 +12304,8 @@
       "Ficção científica",
       "Mistério"
     ],
-    "adicionado": "2026-11-04"
+    "adicionado": "2026-11-04",
+    "colecao": "chat"
   },
   {
     "id": "Dd9xWd7hFCo_ritual",
@@ -12069,7 +12356,8 @@
       "Terror",
       "Suspense"
     ],
-    "adicionado": "2026-11-04"
+    "adicionado": "2026-11-04",
+    "colecao": "chat"
   },
   {
     "id": "Dd9xWd7hFCo_empty",
@@ -12103,7 +12391,8 @@
       "Suspense",
       "Drama"
     ],
-    "adicionado": "2026-11-04"
+    "adicionado": "2026-11-04",
+    "colecao": "chat"
   },
   {
     "id": "Dd9xWd7hFCo_sinister",
@@ -12160,7 +12449,8 @@
       "Terror",
       "Suspense"
     ],
-    "adicionado": "2026-11-04"
+    "adicionado": "2026-11-04",
+    "colecao": "chat"
   },
   {
     "id": "DYqJnnThRaJ",
@@ -12194,7 +12484,8 @@
       "Drama",
       "Fantasia"
     ],
-    "adicionado": "2026-11-04"
+    "adicionado": "2026-11-04",
+    "colecao": "chat"
   },
   {
     "id": "Dej6ZqcMlNy",
@@ -12220,7 +12511,8 @@
       "Drama",
       "Suspense"
     ],
-    "adicionado": "2026-11-04"
+    "adicionado": "2026-11-04",
+    "colecao": "chat"
   },
   {
     "id": "DfUVMnXI8R4",
@@ -12266,7 +12558,8 @@
       "Romance",
       "Drama"
     ],
-    "adicionado": "2026-11-04"
+    "adicionado": "2026-11-04",
+    "colecao": "chat"
   },
   {
     "id": "DfUdsMhRnK0",
@@ -12301,7 +12594,8 @@
       "Drama",
       "Suspense"
     ],
-    "adicionado": "2026-11-05"
+    "adicionado": "2026-11-05",
+    "colecao": "chat"
   },
   {
     "id": "Dfa9MJ2tzYT",
@@ -12353,7 +12647,8 @@
       "Suspense",
       "Romance"
     ],
-    "adicionado": "2026-11-07"
+    "adicionado": "2026-11-07",
+    "colecao": "chat"
   },
   {
     "id": "DfadVi7OK-8",
@@ -12411,7 +12706,8 @@
       "Suspense",
       "Drama"
     ],
-    "adicionado": "2026-11-07"
+    "adicionado": "2026-11-07",
+    "colecao": "chat"
   },
   {
     "id": "Dfau7zZRcUO",
@@ -12452,7 +12748,8 @@
       "Crime",
       "Suspense"
     ],
-    "adicionado": "2026-11-07"
+    "adicionado": "2026-11-07",
+    "colecao": "chat"
   },
   {
     "id": "DfcZ0RlFKeY",
@@ -12512,7 +12809,8 @@
       "Mistério",
       "Suspense"
     ],
-    "adicionado": "2026-11-08"
+    "adicionado": "2026-11-08",
+    "colecao": "chat"
   },
   {
     "id": "DfcuP8Hh2V4",
@@ -12539,7 +12837,8 @@
       "Suspense",
       "Ficção científica"
     ],
-    "adicionado": "2026-11-08"
+    "adicionado": "2026-11-08",
+    "colecao": "chat"
   },
   {
     "id": "DfcvIrSTopm",
@@ -12567,7 +12866,8 @@
       "Suspense",
       "Terror"
     ],
-    "adicionado": "2026-11-08"
+    "adicionado": "2026-11-08",
+    "colecao": "chat"
   },
   {
     "id": "DfdP0vqx-lB",
@@ -12594,7 +12894,8 @@
       "Suspense",
       "Mistério"
     ],
-    "adicionado": "2026-11-08"
+    "adicionado": "2026-11-08",
+    "colecao": "chat"
   },
   {
     "id": "DaERMuYxzP8",
@@ -12635,7 +12936,8 @@
       "Crime",
       "Drama"
     ],
-    "adicionado": "2026-11-09"
+    "adicionado": "2026-11-09",
+    "colecao": "chat"
   },
   {
     "id": "DffpgoAMPgZ",
@@ -12661,7 +12963,8 @@
       "Terror",
       "Suspense"
     ],
-    "adicionado": "2026-11-09"
+    "adicionado": "2026-11-09",
+    "colecao": "chat"
   },
   {
     "id": "Dfi41ozRGIz",
@@ -12719,7 +13022,8 @@
       "Suspense",
       "Crime"
     ],
-    "adicionado": "2026-11-10"
+    "adicionado": "2026-11-10",
+    "colecao": "chat"
   },
   {
     "id": "DflOTnLs3Hk",
@@ -12771,7 +13075,8 @@
       "Suspense",
       "Mistério"
     ],
-    "adicionado": "2026-11-11"
+    "adicionado": "2026-11-11",
+    "colecao": "chat"
   },
   {
     "id": "Dfk_CtKxnZm",
@@ -12806,7 +13111,8 @@
       "Fantasia",
       "Ficção Científica"
     ],
-    "adicionado": "2026-11-11"
+    "adicionado": "2026-11-11",
+    "colecao": "chat"
   },
   {
     "id": "DerFlIBi7gF",
@@ -12840,7 +13146,8 @@
       "Suspense",
       "Comédia"
     ],
-    "adicionado": "2026-11-11"
+    "adicionado": "2026-11-11",
+    "colecao": "chat"
   },
   {
     "id": "DfleJ1LRwd1",
@@ -12876,7 +13183,8 @@
       "Fantasia",
       "Ficção Científica"
     ],
-    "adicionado": "2026-11-11"
+    "adicionado": "2026-11-11",
+    "colecao": "chat"
   },
   {
     "id": "DelKA9ShRfZ",
@@ -12911,7 +13219,8 @@
       "Suspense",
       "Terror"
     ],
-    "adicionado": "2026-11-12"
+    "adicionado": "2026-11-12",
+    "colecao": "chat"
   },
   {
     "id": "DeZ-Qv3pqjb",
@@ -12946,7 +13255,8 @@
       "Romance",
       "Mistério"
     ],
-    "adicionado": "2026-11-12"
+    "adicionado": "2026-11-12",
+    "colecao": "chat"
   },
   {
     "id": "DfmyisjMC7a",
@@ -12981,7 +13291,8 @@
       "Suspense",
       "Mistério"
     ],
-    "adicionado": "2026-11-12"
+    "adicionado": "2026-11-12",
+    "colecao": "chat"
   },
   {
     "id": "DfuWlq0Femm",
@@ -13015,7 +13326,8 @@
       "Drama",
       "Suspense"
     ],
-    "adicionado": "2026-11-15"
+    "adicionado": "2026-11-15",
+    "colecao": "chat"
   },
   {
     "id": "DfxCva-R3K4",
@@ -13049,7 +13361,8 @@
       "Drama",
       "Suspense"
     ],
-    "adicionado": "2026-11-15"
+    "adicionado": "2026-11-15",
+    "colecao": "chat"
   },
   {
     "id": "DerovMpxT7s",
@@ -13102,7 +13415,8 @@
       "Mistério",
       "Suspense"
     ],
-    "adicionado": "2026-11-15"
+    "adicionado": "2026-11-15",
+    "colecao": "chat"
   },
   {
     "id": "DfPF_SYxsuo",
@@ -13137,7 +13451,8 @@
       "Mistério",
       "Suspense"
     ],
-    "adicionado": "2026-11-16"
+    "adicionado": "2026-11-16",
+    "colecao": "chat"
   },
   {
     "id": "DfdvT2xNLB_",
@@ -13165,7 +13480,8 @@
       "Mistério",
       "Suspense"
     ],
-    "adicionado": "2026-11-17"
+    "adicionado": "2026-11-17",
+    "colecao": "chat"
   },
   {
     "id": "DfqHY-EsdZa",
@@ -13201,7 +13517,8 @@
       "Fantasia",
       "Suspense"
     ],
-    "adicionado": "2026-11-17"
+    "adicionado": "2026-11-17",
+    "colecao": "chat"
   },
   {
     "id": "Df0pN89hjqi",
@@ -13272,7 +13589,8 @@
       "História",
       "Romance"
     ],
-    "adicionado": "2026-11-17"
+    "adicionado": "2026-11-17",
+    "colecao": "chat"
   },
   {
     "id": "Dfz7j1hug6k",
@@ -13325,7 +13643,8 @@
       "Terror",
       "Suspense"
     ],
-    "adicionado": "2026-11-17"
+    "adicionado": "2026-11-17",
+    "colecao": "chat"
   },
   {
     "id": "DeYLwJFPyF3",
@@ -13359,7 +13678,8 @@
       "Ficção Científica",
       "Terror"
     ],
-    "adicionado": "2026-11-17"
+    "adicionado": "2026-11-17",
+    "colecao": "chat"
   },
   {
     "id": "Df0sUsbqAL1",
@@ -13393,7 +13713,8 @@
       "Ação",
       "Suspense"
     ],
-    "adicionado": "2026-11-18"
+    "adicionado": "2026-11-18",
+    "colecao": "chat"
   },
   {
     "id": "Df8vIUxtnEM",
@@ -13421,7 +13742,8 @@
       "Fantasia",
       "Drama"
     ],
-    "adicionado": "2026-11-20"
+    "adicionado": "2026-11-20",
+    "colecao": "chat"
   },
   {
     "id": "Dd9_xB6TIhA",
@@ -13457,7 +13779,8 @@
       "Drama",
       "Mistério"
     ],
-    "adicionado": "2026-11-20"
+    "adicionado": "2026-11-20",
+    "colecao": "chat"
   },
   {
     "id": "DdffRxwO3xH",
@@ -13511,7 +13834,8 @@
       "Fantasia",
       "Drama"
     ],
-    "adicionado": "2026-11-20"
+    "adicionado": "2026-11-20",
+    "colecao": "chat"
   },
   {
     "id": "Df9kIRzxEgq",
@@ -13539,7 +13863,8 @@
       "Terror",
       "Drama"
     ],
-    "adicionado": "2026-11-20"
+    "adicionado": "2026-11-20",
+    "colecao": "chat"
   },
   {
     "id": "Df9kIRzxEgq-returns",
@@ -13567,7 +13892,8 @@
       "Terror",
       "Drama"
     ],
-    "adicionado": "2026-11-20"
+    "adicionado": "2026-11-20",
+    "colecao": "chat"
   },
   {
     "id": "DfUTN4GsCxu",
@@ -13600,7 +13926,8 @@
     "gen": [
       "Comédia"
     ],
-    "adicionado": "2026-11-21"
+    "adicionado": "2026-11-21",
+    "colecao": "chat"
   },
   {
     "id": "DfLoZ3exl6m",
@@ -13635,7 +13962,8 @@
       "Drama",
       "Crime"
     ],
-    "adicionado": "2026-11-21"
+    "adicionado": "2026-11-21",
+    "colecao": "chat"
   },
   {
     "id": "Df_BKoiqW4R",
@@ -13670,7 +13998,8 @@
       "Aventura",
       "Fantasia"
     ],
-    "adicionado": "2026-11-21"
+    "adicionado": "2026-11-21",
+    "colecao": "chat"
   },
   {
     "id": "DZnvowlSRsa",
@@ -13716,7 +14045,8 @@
       "Terror",
       "Suspense"
     ],
-    "adicionado": "2026-11-22"
+    "adicionado": "2026-11-22",
+    "colecao": "chat"
   },
   {
     "id": "Dfk0pyMowFL",
@@ -13762,7 +14092,8 @@
       "Terror",
       "Suspense"
     ],
-    "adicionado": "2026-11-22"
+    "adicionado": "2026-11-22",
+    "colecao": "chat"
   },
   {
     "id": "DfKufHVCXYS",
@@ -13790,7 +14121,8 @@
       "Ação",
       "Suspense"
     ],
-    "adicionado": "2026-11-22"
+    "adicionado": "2026-11-22",
+    "colecao": "chat"
   },
   {
     "id": "eden-lake-2008",
@@ -13818,7 +14150,8 @@
       "Suspense",
       "Terror Psicológico"
     ],
-    "adicionado": "2026-11-23"
+    "adicionado": "2026-11-23",
+    "colecao": "chat"
   },
   {
     "id": "DgEZIbON8Yd",
@@ -13871,7 +14204,9 @@
       "Suspense",
       "Aventura"
     ],
-    "adicionado": "2026-11-23"
+    "adicionado": "2026-11-23",
+    "colecao": "chat",
+    "alias": "A Peso de Ouro"
   },
   {
     "id": "DgH2nySOVah",
@@ -13899,9 +14234,9 @@
       "Suspense",
       "Mistério"
     ],
-    "adicionado": "2026-11-25"
-  }
-,
+    "adicionado": "2026-11-25",
+    "colecao": "chat"
+  },
   {
     "id": "worldbreaker",
     "pt": "O Legado do Apocalipse",
@@ -13928,6 +14263,7 @@
       "Ficção Científica",
       "Suspense"
     ],
-    "adicionado": "2026-11-26"
+    "adicionado": "2026-11-26",
+    "colecao": "chat"
   }
 ]
